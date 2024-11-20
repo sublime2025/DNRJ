@@ -1,6 +1,6 @@
 #### 图片查看
 
-- [JPEGView](https://github.com/sylikc/jpegview/releases/)：轻量级无边框看图软件，支持JPEG, GIF,BMP, PNG, TIFF, PSD, HEIF, AVIF,Camera RAW等格式
+- [JPEGView](https://github.com/sylikc/jpegview/releases/)：轻量级无边框看图软件，支持JPEG, GIF,BMP, PNG, TIFF, PSD, HEIF, AVIF,RAW等格式
   - [NexusImages](https://www.xiles.app/)
   - [ImageEye](https://www.fmjsoft.com/imageeye.html#main)
 
@@ -11,7 +11,7 @@
 
 #### 视频播放
 
-- [PotPlayer](https://potplayer.org/)：打开即用，还有更多高级玩法
+- [PotPlayer](https://potplayer.org/)：开箱即用，提供更多高级玩法
   - [MPC-BE](https://www.123684.com/s/IAFrVv-CRBWh)：替代Windows本地播放器的最佳方案
   - [VLC](https://www.videolan.org/vlc/download-windows.html)：开源的项目
 
@@ -21,7 +21,7 @@
   - [Notepad4](https://github.com/zufuliu/notepad4)：
 - [稻壳阅读器](https://www.daokeyuedu.com/)：支持Caj、Epub、Mobi、Azw3、PDF
 - [Typora](https://typora.io/releases/all)：所见即所得的MarkDown编辑器
-- [Xmind](https://xmind.cn/)：一个年轻的思维导图Y5V6p5JxQfId3.png)
+- [Xmind](https://xmind.cn/)：一个年轻的思维导图
 - [DrawIO](https://github.com/jgraph/drawio-desktop/releases)：开源的流程图关系图
 - [FoxitPDFEditor](https://www.foxitsoftware.cn/downloads/)：PDF编辑器
 
@@ -29,15 +29,15 @@
 
 - [CentBrowser](http://www.centbrowser.cn/)：基于GoogleChrome做了增强，更适合国内使用的Chrome浏览器
 - [BandiZip](https://www.bandisoft.com/bandizip/)：支持图片预览的解压缩软件
-- [WinRAR](https://www.winrar.com.cn/)：老牌经典有广告
-- [360Zip](https://yasuo.360.cn/)：国内经典有弹窗
-- [7Zip](https://7-zip.org/)：开源简单很实用
-- [PeaZip](https://github.com/peazip/PeaZip/releases)：开源简单很实用
+  - [WinRAR](https://www.winrar.com.cn/)：老牌经典有广告
+  - [360Zip](https://yasuo.360.cn/)：国内经典有弹窗
+  - [7Zip](https://7-zip.org/)：开源简单很实用
+  - [PeaZip](https://github.com/peazip/PeaZip/releases)：开源简单很实用
 - [QQ拼音](http://qq.pinyin.cn/)：完全能满足基本需求的输入法
 - [Rime](https://rime.im/download/)：高度自定义的输入法，入手难度较高
-- Yzime：基于Rime，可直接使用
+  - Yzime：基于Rime，可直接使用
 
-#### 其它工具
+#### 辅助工具
 
 - [PixPin](https://pixpinapp.com/)：截图工具，支持OCR识别，滚动截图，GIF录制，固定等操作
 - [Bandicam](https://www.bandicam.cn/downloads/)：简单易用的视频录制工具
@@ -56,7 +56,7 @@
 - [UTools](https://u.tools/)：通过插件实现效率提升的工具
 - [Qalculate](http://qalculate.github.io/)：电脑端最佳的科学计算器
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)：极易使用的虚拟机程序
-- VMware：功能更强，占用更多，更适合企业用户使用
+  - VMware：功能更强，占用更多，更适合企业用户使用
 - [雷电模拟器](https://www.ldmnq.com/)：在电脑上玩Android虚拟机
 - IObit_Unlocker：解除系统占用，删文件好工具
 - 小白羊云盘：第三方阿里云盘，视频播放体验更好
@@ -64,7 +64,11 @@
 - TSmerge：TS合并工具
 - 360驱动大师：此版为单文件版，无需安装
 
-#### 编程向
+#### 效率工具
+
+
+
+#### 编程常备
 
 - [WindTerm](https://windterm.net/)：SSH远程工具
 - [Navicat](https://www.navicat.com.cn/products#navicat)：MySQL数据库管理
