@@ -1,44 +1,72 @@
 #### 图片查看
 
-[JPEGView](https://github.com/sylikc/jpegview/releases/)：轻量级无边框看图软件，支持常规格式
+[JPEGView](https://github.com/sylikc/jpegview/releases/)：轻量级无边框看图软件，支持JPEG, GIF,BMP, PNG, TIFF, PSD, HEIF, AVIF,Camera RAW等格式
+
+<img src="https://i.111666.best/image/wcMdeicn3hFeXIhjKz80Fp.png" alt="image"  />
 
 [NexusImages](https://www.xiles.app/)
 
+<img src="https://www.xiles.app/images/screenshots/nexusimage.jpg" alt="image"  />
+
 [ImageEye](https://www.fmjsoft.com/imageeye.html#main)
+
+![image](https://i.111666.best/image/gEmemfMZh7Q3blbKyOZpCy.jpg)
 
 #### 音乐播放
 
 [MusicFree](https://github.com/maotoumao/MusicFree/releases)：通过插件可以实现跨平台听歌，下载歌曲
 
+![image](https://i.111666.best/image/Wbr1ei2D2AiidEfcreUPiF.png)
+
 [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2)：电脑端本地音乐播放器，麻雀虽小五脏俱全
+
+![image](https://i.111666.best/image/XwC4Aqei52JoE5XrsqqpDf.png)
 
 #### 视频播放
 
 [PotPlayer](https://potplayer.org/)：打开即用，还有更多高级玩法
 
+![image](https://i.111666.best/image/JtyAdfUPsmhVLqf6skTAVk.png)
+
 [MPC-BE](https://www.123684.com/s/IAFrVv-CRBWh)：替代Windows本地播放器的最佳方案
+
+![image](https://i.111666.best/image/Gt57q3ITl7GrPayAaZcQpc.png)
 
 [VLC](https://www.videolan.org/vlc/download-windows.html)：开源的项目
 
+![image](https://i.111666.best/image/tpB60ygUW6dTBahzHvXCo3.jpeg)
+
 #### 文档处理
 
-[Notepad2](https://notepad2.com/)：可完美替换本地记事本，代码高亮，行数显示，查找替换更方便
+[Notepad2](https://notepad2.com/)：可完美替换Windows记事本，代码高亮，行数显示，查找替换更方便
 
-[Notepad4](https://github.com/zufuliu/notepad4)
+[Notepad4](https://github.com/zufuliu/notepad4)：![image](https://i.111666.best/image/BBB5ZIWv1VxufkIBAyKsgy.png)
 
-[稻壳阅读器](https://www.daokeyuedu.com/)：支持Caj、Epub、Mobi、Aw3z、PDF
+[稻壳阅读器](https://www.daokeyuedu.com/)：支持Caj、Epub、Mobi、Azw3、PDF
+
+![image](https://i.111666.best/image/ywvrT37i8pL3b8tnAjwDja.png)
 
 [Typora](https://typora.io/releases/all)：所见即所得的MarkDown编辑器
 
+![image](https://i.111666.best/image/ygEKYbjYj9EwKzSOmUquxN.png)
+
 [Xmind](https://xmind.cn/)：一个年轻的思维导图
+
+![image](https://i.111666.best/image/hZQQ9JpptY5V6p5JxQfId3.png)
 
 [DrawIO](https://github.com/jgraph/drawio-desktop/releases)：开源的流程图关系图
 
+![image](https://i.111666.best/image/IE19IQf88dKQlLVkRxnkEN.png)
+
 [FoxitPDFEditor](https://www.foxitsoftware.cn/downloads/)：PDF编辑器
+
+![image](https://i.111666.best/image/8fIXyBCtORnaq0x4lo4Scc.png)
 
 #### 系统必备
 
 [CentBrowser](http://www.centbrowser.cn/)：基于GoogleChrome做了增强，更适合国内使用的Chrome浏览器
+
+![image](https://i.111666.best/image/81JgkO80SSbwy2oEHl0H3u.png)
 
 [BandiZip](https://www.bandisoft.com/bandizip/)：支持图片预览的解压缩软件
 
@@ -53,6 +81,8 @@
 [QQ拼音](http://qq.pinyin.cn/)：完全能满足基本需求的输入法
 
 [Rime](https://rime.im/download/)：高度自定义的输入法，入手难度较高
+
+Yzime：基于Rime，可直接使用
 
 #### 其它工具
 
@@ -82,6 +112,8 @@
 
 [酷呆桌面](https://www.coodesker.com/)：无捆绑无弹窗的桌面整理工具
 
+360桌面：此版为单文件提取版
+
 [UTools](https://u.tools/)：通过插件实现效率提升的工具
 
 [Qalculate](http://qalculate.github.io/)：电脑端最佳的科学计算器
@@ -91,3 +123,32 @@
 VMware：功能更强，占用更多，更适合企业用户使用
 
 [雷电模拟器](https://www.ldmnq.com/)：在电脑上玩Android虚拟机
+
+IObit_Unlocker：解除系统占用，删文件好工具
+
+小白羊云盘：第三方阿里云盘，视频播放体验更好
+
+M3U8下载器：下载M3U8流媒体文件
+
+TSmerge：TS合并工具
+
+360驱动大师：此版为单文件版，无需安装
+
+#### 编程向
+
+[WindTerm](https://windterm.net/)：SSH远程工具
+
+[Navicat](https://www.navicat.com.cn/products#navicat)：MySQL数据库管理
+
+Git：版本控制
+
+Docker：
+
+Python：
+
+Redis：
+
+MySQL：
+
+Maven：
+
