@@ -59,7 +59,7 @@
   - VMware：功能更强，占用更多，更适合企业用户使用
 - [雷电模拟器](https://www.ldmnq.com/)：在电脑上玩Android虚拟机
 - IObit_Unlocker：解除系统占用，删文件好工具
-- 小白羊云盘：第三方阿里云盘，视频播放体验更好
+- [小白羊云盘](https://github.com/gaozhangmin/aliyunpan/releases)：第三方阿里云盘，视频播放体验更好
 - M3U8下载器：下载M3U8流媒体文件
 - TSmerge：TS合并工具
 - 360驱动大师：此版为单文件版，无需安装
