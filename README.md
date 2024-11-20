@@ -2,71 +2,43 @@
 
 [JPEGView](https://github.com/sylikc/jpegview/releases/)：轻量级无边框看图软件，支持JPEG, GIF,BMP, PNG, TIFF, PSD, HEIF, AVIF,Camera RAW等格式
 
-<img src="https://i.111666.best/image/wcMdeicn3hFeXIhjKz80Fp.png" alt="image"  />
-
 [NexusImages](https://www.xiles.app/)
 
-<img src="https://www.xiles.app/images/screenshots/nexusimage.jpg" alt="image"  />
-
 [ImageEye](https://www.fmjsoft.com/imageeye.html#main)
-
-![image](https://i.111666.best/image/gEmemfMZh7Q3blbKyOZpCy.jpg)
 
 #### 音乐播放
 
 [MusicFree](https://github.com/maotoumao/MusicFree/releases)：通过插件可以实现跨平台听歌，下载歌曲
 
-![image](https://i.111666.best/image/Wbr1ei2D2AiidEfcreUPiF.png)
-
 [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2)：电脑端本地音乐播放器，麻雀虽小五脏俱全
-
-![image](https://i.111666.best/image/XwC4Aqei52JoE5XrsqqpDf.png)
 
 #### 视频播放
 
 [PotPlayer](https://potplayer.org/)：打开即用，还有更多高级玩法
 
-![image](https://i.111666.best/image/JtyAdfUPsmhVLqf6skTAVk.png)
-
 [MPC-BE](https://www.123684.com/s/IAFrVv-CRBWh)：替代Windows本地播放器的最佳方案
 
-![image](https://i.111666.best/image/Gt57q3ITl7GrPayAaZcQpc.png)
-
 [VLC](https://www.videolan.org/vlc/download-windows.html)：开源的项目
-
-![image](https://i.111666.best/image/tpB60ygUW6dTBahzHvXCo3.jpeg)
 
 #### 文档处理
 
 [Notepad2](https://notepad2.com/)：可完美替换Windows记事本，代码高亮，行数显示，查找替换更方便
 
-[Notepad4](https://github.com/zufuliu/notepad4)：![image](https://i.111666.best/image/BBB5ZIWv1VxufkIBAyKsgy.png)
+[Notepad4](https://github.com/zufuliu/notepad4)：
 
 [稻壳阅读器](https://www.daokeyuedu.com/)：支持Caj、Epub、Mobi、Azw3、PDF
 
-![image](https://i.111666.best/image/ywvrT37i8pL3b8tnAjwDja.png)
-
 [Typora](https://typora.io/releases/all)：所见即所得的MarkDown编辑器
 
-![image](https://i.111666.best/image/ygEKYbjYj9EwKzSOmUquxN.png)
-
-[Xmind](https://xmind.cn/)：一个年轻的思维导图
-
-![image](https://i.111666.best/image/hZQQ9JpptY5V6p5JxQfId3.png)
+[Xmind](https://xmind.cn/)：一个年轻的思维导图Y5V6p5JxQfId3.png)
 
 [DrawIO](https://github.com/jgraph/drawio-desktop/releases)：开源的流程图关系图
 
-![image](https://i.111666.best/image/IE19IQf88dKQlLVkRxnkEN.png)
-
 [FoxitPDFEditor](https://www.foxitsoftware.cn/downloads/)：PDF编辑器
-
-![image](https://i.111666.best/image/8fIXyBCtORnaq0x4lo4Scc.png)
 
 #### 系统必备
 
 [CentBrowser](http://www.centbrowser.cn/)：基于GoogleChrome做了增强，更适合国内使用的Chrome浏览器
-
-![image](https://i.111666.best/image/81JgkO80SSbwy2oEHl0H3u.png)
 
 [BandiZip](https://www.bandisoft.com/bandizip/)：支持图片预览的解压缩软件
 
