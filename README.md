@@ -7,14 +7,14 @@
 |    [ImageEye](https://www.fmjsoft.com/imageeye.html#main)    |    轻量级无边框看图软件     |      | 官方 | [链接](https://share.feijipan.com/s/PYDv1Ab3) |
 |                                                              |                             |      |      |                                               |
 | [MusicFree](https://github.com/maotoumao/MusicFree/releases) | 通过插件实现跨平台听歌下载  |      | 开源 | [链接](https://share.feijipan.com/s/cZDv1EtO) |
-| [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) |    电脑端本地音乐播放器     |      | 开源 | [链接](https://share.feijipan.com/s/KWDv10My) |
+| [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) |       本地音乐播放器        |      | 开源 | [链接](https://share.feijipan.com/s/KWDv10My) |
 |             [KuwoMusic](http://www.kuwo.cn/down)             |          酷我音乐           |      | 破解 | [链接](https://share.feijipan.com/s/fiDv1P5m) |
 |       [QQMusic](https://y.qq.com/download/index.html)        |           QQ音乐            |      | 绿色 | [链接](https://share.feijipan.com/s/aaDv1XPG) |
 |        [MP3Tag](https://www.mp3tag.de/download.html)         |       音乐标签编辑器        |      | 官方 | [链接](https://share.feijipan.com/s/EVDv1Yrt) |
 |                                                              |                             |      |      |                                               |
 |             [PotPlayer](https://potplayer.org/)              |     专业级的视频播放器      |      | 官方 | [链接](https://share.feijipan.com/s/pKDv1WHa) |
 |       [MPC-BE](https://www.123684.com/s/IAFrVv-CRBWh)        | 替代Windows播放器的最佳方案 |      | 开源 | [链接](https://share.feijipan.com/s/LUDv13Rd) |
-|  [VLC](https://www.videolan.org/vlc/download-windows.html)   |                             |      | 开源 | [链接](https://share.feijipan.com/s/SRDv1aZT) |
+|  [VLC](https://www.videolan.org/vlc/download-windows.html)   |     跨平台的视频播放器      |      | 开源 | [链接](https://share.feijipan.com/s/SRDv1aZT) |
 |        [StromPlayer](http://www.baofeng.com/download)        |          暴风影音           |      | 精简 | [链接](https://share.feijipan.com/s/qPDv1c94) |
 |                                                              |                             |      |      |                                               |
 |        [Bandicam](https://www.bandicam.cn/downloads/)        |   简单易用的视频录制工具    |      | 破解 | [链接](https://share.feijipan.com/s/5rDv1eJH) |
@@ -48,42 +48,50 @@
 |              [Rime](https://rime.im/download/)               |       高度自定义的输入法，上手难度高       |      | 开源 | [链接](https://share.feijipan.com/s/SqDv2Q9M) |
 |                                                              |                                            |      |      |                                               |
 |               [PixPin](https://pixpinapp.com/)               |  截图工具，支持OCR识别，滚动截图，GIF录制  |      | 开源 | [链接](https://share.feijipan.com/s/92Dv2aBd) |
-|       [IDM](https://www.internetdownloadmanager.com/)        |        多线程下载，嗅探网页媒体资源        |      | 破解 | [链接](https://share.feijipan.com/s/0dDv2dAQ) |
-|              [Thunder](https://www.xunlei.com/)              |        多线程下载，嗅探网页媒体资源        |      | 精简 | [链接](https://share.feijipan.com/s/r2Dv25eF) |
-| [WiseCare365](https://www.wisecleaner.com/wise-care-365.html) | 简单易用的垃圾清理工具，可编辑右键菜单选项 |      | 破解 | [链接](https://share.feijipan.com/s/rODv2yDl) |
-| [HibitUnistaller](https://www.hibitsoft.ir/Uninstaller.html) |        轻量级卸载工具，可清理注册表        |      | 官方 | [链接](https://share.feijipan.com/s/NyDv2gHw) |
-|                       SuperUnistaller                        |              专业软件卸载清理              |      | 民间 | [链接](https://share.feijipan.com/s/SzDvgotb) |
-|         [Geek](https://geekuninstaller.com/download)         |            同样为轻量级的替代品            |      | 官方 | [链接](https://share.feijipan.com/s/uGDv2i7R) |
-|            [MiniRename](https://abc100.net/106/)             |               批量重命名工具               |      | 民间 | [链接](https://share.feijipan.com/s/SUDv2mXf) |
 |   [Everything](https://www.voidtools.com/zh-cn/downloads/)   |              快速检索磁盘文件              |      | 开源 | [链接](https://share.feijipan.com/s/FPDv2rbT) |
-| [IObit_Unlocker](https://www.iobit.com/en/iobit-unlocker.php) |         解除系统占用，删文件好工具         |      | 官方 | [链接](https://share.feijipan.com/s/nsDv3Dp9) |
-|                  [UTools](https://u.tools/)                  |         通过插件实现效率提升的工具         |      | 官方 | [链接](https://share.feijipan.com/s/luDv30MV) |
 |           [Qalculate](http://qalculate.github.io/)           |           电脑端最佳的科学计算器           |      | 开源 | [链接](https://share.feijipan.com/s/M0Dv3Xv6) |
-|       [360驱动大师](http://dm.weishi.360.cn/home.html)       |                                            |      | 精简 | [链接](https://share.feijipan.com/s/odDv31Yc) |
-|            [酷呆桌面](https://www.coodesker.com/)            |          无捆绑弹窗的桌面整理工具          |      | 官方 | [链接](https://share.feijipan.com/s/SvDv33is) |
-|            [360桌面](http://www.360.cn/desktop/)             |                                            |      | 官方 | [链接](https://share.feijipan.com/s/leDv3ehS) |
+|            [MiniRename](https://abc100.net/106/)             |               批量重命名工具               |      | 民间 | [链接](https://share.feijipan.com/s/SUDv2mXf) |
+|                                                              |                                            |      |      |                                               |
+| [WiseCare365](https://www.wisecleaner.com/wise-care-365.html) | 简单易用的垃圾清理工具，可编辑右键菜单选项 |      | 破解 | [链接](https://share.feijipan.com/s/rODv2yDl) |
+| [IObit_Unlocker](https://www.iobit.com/en/iobit-unlocker.php) |         解除系统占用，删文件好工具         |      | 官方 | [链接](https://share.feijipan.com/s/nsDv3Dp9) |
+| [HibitUnistaller](https://www.hibitsoft.ir/Uninstaller.html) |        轻量级卸载工具，可清理注册表        |      | 官方 | [链接](https://share.feijipan.com/s/NyDv2gHw) |
+|         [Geek](https://geekuninstaller.com/download)         |            同样为轻量级的替代品            |      | 官方 | [链接](https://share.feijipan.com/s/uGDv2i7R) |
+|                                                              |                                            |      |      |                                               |
+|       [IDM](https://www.internetdownloadmanager.com/)        |        多线程下载，嗅探网页媒体资源        |      | 破解 | [链接](https://share.feijipan.com/s/0dDv2dAQ) |
+|               [迅雷](https://www.xunlei.com/)                |        多线程下载，嗅探网页媒体资源        |      | 精简 | [链接](https://share.feijipan.com/s/r2Dv25eF) |
+|                                                              |                                            |      |      |                                               |
 |          [花瓣护眼](http://eyecare.joyfartech.com/)          |           简单调节屏幕色温和亮度           |      | 官方 | [链接](https://share.feijipan.com/s/tCDv3itY) |
-|                         WiFi密码查看                         |            查看连接过的WIFi密码            |      | 民间 | [链接](https://share.feijipan.com/s/czDvv326) |
-|                          IPTVCheck                           |              直播源连通性检测              |      | 民间 | [链接](https://share.feijipan.com/s/vwDvyrBj) |
-|                           eXeScope                           |                DLL文件修改                 |      | 民间 | [链接](https://share.feijipan.com/s/GNDvzVJ8) |
-|                           M3U8Down                           |                M3U8文件下载                |      | 民间 | [链接](https://share.feijipan.com/s/t0Dvz7rP) |
-|                           TSMerger                           |                 TS文件合并                 |      |      | [链接](https://share.feijipan.com/s/JqDvzijI) |
-|                        Windows运行库                         |               微软常用运行库               |      | 民间 | [链接](https://share.feijipan.com/s/pMDvhHId) |
-|                          .net运行库                          |                                            |      | 民间 | [链接](https://share.feijipan.com/s/2pDvhXDt) |
-|                          C++运行库                           |                                            |      | 民间 | [链接](https://share.feijipan.com/s/SWDvhWnq) |
-|                           DirectX                            |               运行库修复工具               |      | 民间 | [链接](https://share.feijipan.com/s/AgDvh3kB) |
-|                            HWINFO                            |                硬件检测工具                |      | 民间 | [链接](https://share.feijipan.com/s/YCDvh66T) |
-|                           Checkit                            |                硬件检测工具                |      | 民间 | [链接](https://share.feijipan.com/s/MCDvhgwX) |
+|            [酷呆桌面](https://www.coodesker.com/)            |          无捆绑弹窗的桌面整理工具          |      | 官方 | [链接](https://share.feijipan.com/s/SvDv33is) |
+|            [360桌面](http://www.360.cn/desktop/)             |                桌面整理工具                |      | 官方 | [链接](https://share.feijipan.com/s/leDv3ehS) |
+|       [360驱动大师](http://dm.weishi.360.cn/home.html)       |               单文件独立运行               |      | 精简 | [链接](https://share.feijipan.com/s/odDv31Yc) |
+|                  [UTools](https://u.tools/)                  |         通过插件实现效率提升的工具         |      | 官方 | [链接](https://share.feijipan.com/s/luDv30MV) |
 
 ### 其它软件
 
 |                             名称                             |                    简介                    | 图例 | 说明 |                     下载                      |
 | :----------------------------------------------------------: | :----------------------------------------: | :--: | :--: | :-------------------------------------------: |
-|             [雷电模拟器](https://www.ldmnq.com/)             |               Android虚拟机                |      | 精简 | [链接](https://share.feijipan.com/s/ZlDv2JSn) |
-| [小白羊云盘](https://github.com/gaozhangmin/aliyunpan/releases) |               第三方阿里云盘               |      | 开源 | [链接](https://share.feijipan.com/s/guDv3ExO) |
+|           [QQ](https://im.qq.com/pcqq/index.shtml)           |                  历史版本                  |      | 绿色 | [链接](https://share.feijipan.com/s/ccDvzkuc) |
+|          [CentBrowser](http://www.centbrowser.cn/)           |        更适合国内使用的Chrome浏览器        |      | 官方 | [链接](https://share.feijipan.com/s/eFDv1JUd) |
 |             [格式工厂](http://www.pcgeshi.com/)              | 视频（去水印）、音乐、图片、文档的格式转换 |      | 绿色 | [链接](https://share.feijipan.com/s/y3Dv3mZK) |
-|              [WindTerm](https://windterm.net/)               |                SSH远程工具                 |      | 开源 | [链接](https://share.feijipan.com/s/prDvfNLJ) |
+| [小白羊云盘](https://github.com/gaozhangmin/aliyunpan/releases) |               第三方阿里云盘               |      | 开源 | [链接](https://share.feijipan.com/s/guDv3ExO) |
+|             [雷电模拟器](https://www.ldmnq.com/)             |               Android虚拟机                |      | 精简 | [链接](https://share.feijipan.com/s/ZlDv2JSn) |
+|   [VirtualBox](https://www.virtualbox.org/wiki/Downloads)    |                  PC虚拟机                  |      | 开源 | [链接](https://share.feijipan.com/s/ltDvjyEY) |
 |    [Navicat](https://www.navicat.com.cn/products#navicat)    |              MySQL数据库管理               |      | 破解 | [链接](https://share.feijipan.com/s/GeDvfHmQ) |
-|          [CentBrowser](http://www.centbrowser.cn/)           |        更适合国内使用的Chrome浏览器        |      | 官方 |                                               |
-|                              QQ                              |                  历史版本                  |      | 绿色 | [链接](https://share.feijipan.com/s/ccDvzkuc) |
+|              [WindTerm](https://windterm.net/)               |                SSH远程工具                 |      | 开源 | [链接](https://share.feijipan.com/s/prDvfNLJ) |
 
+### 其他工具
+
+|      名称       |       简介       | 图例 | 说明 |                     下载                      |
+| :-------------: | :--------------: | :--: | :--: | :-------------------------------------------: |
+|  WiFi密码查看   |   查看WIFi密码   |      | 民间 | [链接](https://share.feijipan.com/s/czDvv326) |
+| SuperUnistaller | 专业软件卸载清理 |      | 民间 | [链接](https://share.feijipan.com/s/SzDvgotb) |
+|    IPTVCheck    | 直播源连通性检测 |      | 民间 | [链接](https://share.feijipan.com/s/vwDvyrBj) |
+|    eXeScope     |   DLL文件修改    |      | 民间 | [链接](https://share.feijipan.com/s/GNDvzVJ8) |
+|    M3U8Down     |   M3U8文件下载   |      | 民间 | [链接](https://share.feijipan.com/s/t0Dvz7rP) |
+|    TSMerger     |    TS文件合并    |      | 民间 | [链接](https://share.feijipan.com/s/JqDvzijI) |
+|  Windows运行库  |  微软常用运行库  |      | 民间 | [链接](https://share.feijipan.com/s/pMDvhHId) |
+|     dotnet      |    .net运行库    |      | 民间 | [链接](https://share.feijipan.com/s/2pDvhXDt) |
+|    VisualCpp    |    C++运行库     |      | 民间 | [链接](https://share.feijipan.com/s/SWDvhWnq) |
+|     DirectX     |  运行库修复工具  |      | 民间 | [链接](https://share.feijipan.com/s/AgDvh3kB) |
+|     HWINFO      |   硬件检测工具   |      | 民间 | [链接](https://share.feijipan.com/s/YCDvh66T) |
+|     Checkit     |   硬件检测工具   |      | 民间 | [链接](https://share.feijipan.com/s/MCDvhgwX) |
