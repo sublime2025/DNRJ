@@ -1,36 +1,36 @@
 ### 媒体应用
 
-|                             名称                             |            简介             | 图例 | 说明 |                     下载                      |
-| :----------------------------------------------------------: | :-------------------------: | :--: | :--: | :-------------------------------------------: |
-|   [JPEGView](https://github.com/sylikc/jpegview/releases/)   |    轻量级无边框看图软件     |      | 开源 | [链接](https://share.feijipan.com/s/VQDvQRcP) |
-|            [NexusImages](https://www.xiles.app/)             |    轻量级无边框看图软件     |      | 官方 | [链接](https://share.feijipan.com/s/2LDvQKj2) |
-|    [ImageEye](https://www.fmjsoft.com/imageeye.html#main)    |    轻量级无边框看图软件     |      | 官方 | [链接](https://share.feijipan.com/s/PYDv1Ab3) |
-|                                                              |                             |      |      |                                               |
-| [MusicFree](https://github.com/maotoumao/MusicFree/releases) | 通过插件实现跨平台听歌下载  |      | 开源 | [链接](https://share.feijipan.com/s/cZDv1EtO) |
-| [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) |       本地音乐播放器        |      | 开源 | [链接](https://share.feijipan.com/s/KWDv10My) |
-|             [KuwoMusic](http://www.kuwo.cn/down)             |          酷我音乐           |      | 破解 | [链接](https://share.feijipan.com/s/fiDv1P5m) |
-|       [QQMusic](https://y.qq.com/download/index.html)        |           QQ音乐            |      | 绿色 | [链接](https://share.feijipan.com/s/aaDv1XPG) |
-|        [MP3Tag](https://www.mp3tag.de/download.html)         |       音乐标签编辑器        |      | 官方 | [链接](https://share.feijipan.com/s/EVDv1Yrt) |
-|                                                              |                             |      |      |                                               |
-|             [PotPlayer](https://potplayer.org/)              |     专业级的视频播放器      |      | 官方 | [链接](https://share.feijipan.com/s/pKDv1WHa) |
-|       [MPC-BE](https://www.123684.com/s/IAFrVv-CRBWh)        | 替代Windows播放器的最佳方案 |      | 开源 | [链接](https://share.feijipan.com/s/LUDv13Rd) |
-|  [VLC](https://www.videolan.org/vlc/download-windows.html)   |     跨平台的视频播放器      |      | 开源 | [链接](https://share.feijipan.com/s/SRDv1aZT) |
-|        [StromPlayer](http://www.baofeng.com/download)        |          暴风影音           |      | 精简 | [链接](https://share.feijipan.com/s/qPDv1c94) |
-|                                                              |                             |      |      |                                               |
-|        [Bandicam](https://www.bandicam.cn/downloads/)        |   简单易用的视频录制工具    |      | 破解 | [链接](https://share.feijipan.com/s/5rDv1eJH) |
-|                [OBS](https://obsproject.com/)                |   适合直播的视频录制工具    |      | 开源 | [链接](https://share.feijipan.com/s/eNDv18CL) |
+|                             名称                             |            简介             |                             图例                             | 说明 |                     下载                      |
+| :----------------------------------------------------------: | :-------------------------: | :----------------------------------------------------------: | :--: | :-------------------------------------------: |
+|   [JPEGView](https://github.com/sylikc/jpegview/releases/)   |    轻量级无边框看图软件     | [IMG](https://i.111666.best/image/mRcKUwwb09iUXS80Rbzcyh.png) | 开源 | [链接](https://share.feijipan.com/s/VQDvQRcP) |
+|            [NexusImages](https://www.xiles.app/)             |    轻量级无边框看图软件     | [IMG](https://i.111666.best/image/Uw9uFFzhKFtFsVzhRQpRh4.jpg) | 官方 | [链接](https://share.feijipan.com/s/2LDvQKj2) |
+|    [ImageEye](https://www.fmjsoft.com/imageeye.html#main)    |    轻量级无边框看图软件     | [IMG](https://i.111666.best/image/bjqEAPT7m2C1hNKWQICo1P.jpg) | 官方 | [链接](https://share.feijipan.com/s/PYDv1Ab3) |
+|                                                              |                             |                                                              |      |                                               |
+| [MusicFree](https://github.com/maotoumao/MusicFree/releases) | 通过插件实现跨平台听歌下载  | [IMG](https://i.111666.best/image/IO9tQA2E5H62ju65PsjOi1.png) | 开源 | [链接](https://share.feijipan.com/s/cZDv1EtO) |
+| [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) |       本地音乐播放器        | [IMG](https://i.111666.best/image/uazLODUwTfbY0yXRq1Ugbp.png) | 开源 | [链接](https://share.feijipan.com/s/KWDv10My) |
+|             [KuwoMusic](http://www.kuwo.cn/down)             |          酷我音乐           | [IMG](https://i.111666.best/image/5tN62e8Z0Fhdb5cQRaxMAP.png) | 破解 | [链接](https://share.feijipan.com/s/fiDv1P5m) |
+|       [QQMusic](https://y.qq.com/download/index.html)        |           QQ音乐            | [IMG](https://i.111666.best/image/dYqM816K86Oka0LcjCzMDg.png) | 绿色 | [链接](https://share.feijipan.com/s/aaDv1XPG) |
+|        [MP3Tag](https://www.mp3tag.de/download.html)         |       音乐标签编辑器        | [IMG](https://i.111666.best/image/PSOrlByIP94N8MiuNB7bpV.png) | 官方 | [链接](https://share.feijipan.com/s/EVDv1Yrt) |
+|                                                              |                             |                                                              |      |                                               |
+|             [PotPlayer](https://potplayer.org/)              |     专业级的视频播放器      | [IMG](https://i.111666.best/image/oXHChIEJB7grja1hMnjtzM.png) | 官方 | [链接](https://share.feijipan.com/s/pKDv1WHa) |
+|       [MPC-BE](https://www.123684.com/s/IAFrVv-CRBWh)        | 替代Windows播放器的最佳方案 | [IMG](https://i.111666.best/image/SL3k9nOmwHVtOhHIPDTMd8.png) | 开源 | [链接](https://share.feijipan.com/s/LUDv13Rd) |
+|  [VLC](https://www.videolan.org/vlc/download-windows.html)   |     跨平台的视频播放器      | [IMG](https://i.111666.best/image/fCNe7vCq5dgizvbcqgPJrj.jpeg) | 开源 | [链接](https://share.feijipan.com/s/SRDv1aZT) |
+|        [StromPlayer](http://www.baofeng.com/download)        |          暴风影音           | [IMG](https://i.111666.best/image/A2DkjYgp4BYboIyb3vzn29.png) | 精简 | [链接](https://share.feijipan.com/s/qPDv1c94) |
+|                                                              |                             |                                                              |      |                                               |
+|        [Bandicam](https://www.bandicam.cn/downloads/)        |   简单易用的视频录制工具    | [IMG](https://i.111666.best/image/5Tb8tzQt0WwCHyTyAl1smm.png) | 破解 | [链接](https://share.feijipan.com/s/5rDv1eJH) |
+|                [OBS](https://obsproject.com/)                |   适合直播的视频录制工具    | [IMG](https://i.111666.best/image/0AmzSyPxJ2HlR5wAFHatYE.png) | 开源 | [链接](https://share.feijipan.com/s/eNDv18CL) |
 
 ### 文本应用
 
-|                            名称                             |             简介             | 图例 | 说明 |                     下载                      |
-| :---------------------------------------------------------: | :--------------------------: | :--: | :--: | :-------------------------------------------: |
-|              [Notepad2](https://notepad2.com/)              |    完美替代Windows记事本     |      | 官方 | [链接](https://share.feijipan.com/s/FHDv1w5F) |
-|     [SublimeText](https://www.sublimetext.com/download)     | 功能强大且美观的文本处理工具 |      | 破解 | [链接](https://share.feijipan.com/s/YZDv1jnP) |
-|          [DocReader](https://www.daokeyuedu.com/)           |      稻壳电子文档阅读器      |      | 官方 | [链接](https://share.feijipan.com/s/p0Dv1oB2) |
-|          [Typora](https://typora.io/releases/all)           |        MarkDown编辑器        |      | 破解 | [链接](https://share.feijipan.com/s/oYDv1r4g) |
-|                 [Xmind](https://xmind.cn/)                  |           思维导图           |      | 破解 | [链接](https://share.feijipan.com/s/O6Dv1sCu) |
-| [DrawIO](https://github.com/jgraph/drawio-desktop/releases) |            流程图            |      | 开源 | [链接](https://share.feijipan.com/s/qqDv1L7l) |
-|  [FoxitPDFEditor](https://www.foxitsoftware.cn/downloads/)  |        福昕PDF编辑器         |      | 破解 | [链接](https://share.feijipan.com/s/wZDv1Rwh) |
+|                            名称                             |             简介             |                             图例                             | 说明 |                     下载                      |
+| :---------------------------------------------------------: | :--------------------------: | :----------------------------------------------------------: | :--: | :-------------------------------------------: |
+|              [Notepad2](https://notepad2.com/)              |    完美替代Windows记事本     | [IMG](https://i.111666.best/image/SGL26VNyZOPyEf4CIvcxr4.png) | 官方 | [链接](https://share.feijipan.com/s/FHDv1w5F) |
+|     [SublimeText](https://www.sublimetext.com/download)     | 功能强大且美观的文本处理工具 | [IMG](https://i.111666.best/image/wqR05WqvzqWU1QM91dKPVv.png) | 破解 | [链接](https://share.feijipan.com/s/YZDv1jnP) |
+|          [DocReader](https://www.daokeyuedu.com/)           |      稻壳电子文档阅读器      | [IMG](https://i.111666.best/image/YUYkzADXKOfPbph9gszW1Q.png) | 官方 | [链接](https://share.feijipan.com/s/p0Dv1oB2) |
+|          [Typora](https://typora.io/releases/all)           |        MarkDown编辑器        | [IMG](https://i.111666.best/image/SgBDNeV8EfNnjbb1Pb0Ifj.png) | 破解 | [链接](https://share.feijipan.com/s/oYDv1r4g) |
+|                 [Xmind](https://xmind.cn/)                  |           思维导图           | [IMG](https://i.111666.best/image/dAzqoDo1dmMW4pAleYSn1e.png) | 破解 | [链接](https://share.feijipan.com/s/O6Dv1sCu) |
+| [DrawIO](https://github.com/jgraph/drawio-desktop/releases) |            流程图            | [IMG](https://i.111666.best/image/SwLvkE4O05ELErvoCJ14yo.png) | 开源 | [链接](https://share.feijipan.com/s/qqDv1L7l) |
+|  [FoxitPDFEditor](https://www.foxitsoftware.cn/downloads/)  |        福昕PDF编辑器         | [IMG](https://i.111666.best/image/UQIoycnvxPncLVmHV18Zig.png) | 破解 | [链接](https://share.feijipan.com/s/wZDv1Rwh) |
 
 ### 系统工具
 
@@ -68,17 +68,17 @@
 
 ### 其它软件
 
-|                             名称                             |                    简介                    | 图例 | 说明 |                     下载                      |
-| :----------------------------------------------------------: | :----------------------------------------: | :--: | :--: | :-------------------------------------------: |
-|           [QQ](https://im.qq.com/pcqq/index.shtml)           |                  历史版本                  |      | 绿色 | [链接](https://share.feijipan.com/s/ccDvzkuc) |
-|          [CentBrowser](http://www.centbrowser.cn/)           |        更适合国内使用的Chrome浏览器        |      | 官方 | [链接](https://share.feijipan.com/s/eFDv1JUd) |
-|             [格式工厂](http://www.pcgeshi.com/)              | 视频（去水印）、音乐、图片、文档的格式转换 |      | 绿色 | [链接](https://share.feijipan.com/s/y3Dv3mZK) |
-| [小白羊云盘](https://github.com/gaozhangmin/aliyunpan/releases) |               第三方阿里云盘               |      | 开源 | [链接](https://share.feijipan.com/s/guDv3ExO) |
-|             [雷电模拟器](https://www.ldmnq.com/)             |               Android虚拟机                |      | 精简 | [链接](https://share.feijipan.com/s/ZlDv2JSn) |
-|   [VirtualBox](https://www.virtualbox.org/wiki/Downloads)    |           适合个人使用的PC虚拟机           |      | 开源 | [链接](https://share.feijipan.com/s/ltDvjyEY) |
-| [VMware](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) |           适合企业使用的PC虚拟机           |      | 破解 | [链接](https://share.feijipan.com/s/5DDvlUNy) |
-|    [Navicat](https://www.navicat.com.cn/products#navicat)    |              MySQL数据库管理               |      | 破解 | [链接](https://share.feijipan.com/s/GeDvfHmQ) |
-|              [WindTerm](https://windterm.net/)               |                SSH远程工具                 |      | 开源 | [链接](https://share.feijipan.com/s/prDvfNLJ) |
+|                             名称                             |                    简介                    |                             图例                             | 说明 |                     下载                      |
+| :----------------------------------------------------------: | :----------------------------------------: | :----------------------------------------------------------: | :--: | :-------------------------------------------: |
+|           [QQ](https://im.qq.com/pcqq/index.shtml)           |                  历史版本                  | [IMG](https://i.111666.best/image/yvwQgPfJ3FIoOPDlpA4QC0.png) | 绿色 | [链接](https://share.feijipan.com/s/ccDvzkuc) |
+|          [CentBrowser](http://www.centbrowser.cn/)           |        更适合国内使用的Chrome浏览器        | [IMG](https://i.111666.best/image/ts4Of2KwQ14UMfl9K0fV1s.png) | 官方 | [链接](https://share.feijipan.com/s/eFDv1JUd) |
+|             [格式工厂](http://www.pcgeshi.com/)              | 视频（去水印）、音乐、图片、文档的格式转换 | [IMG](https://i.111666.best/image/fszRpoKuNZfi2a6uiMhFlJ.png) | 绿色 | [链接](https://share.feijipan.com/s/y3Dv3mZK) |
+| [小白羊云盘](https://github.com/gaozhangmin/aliyunpan/releases) |               第三方阿里云盘               | [IMG](https://i.111666.best/image/EiA0PKnwWGyoqd38g50kTm.png) | 开源 | [链接](https://share.feijipan.com/s/guDv3ExO) |
+|             [雷电模拟器](https://www.ldmnq.com/)             |               Android虚拟机                | [IMG](https://i.111666.best/image/YHNzqyymbdsKJnhoxTmu09.png) | 精简 | [链接](https://share.feijipan.com/s/ZlDv2JSn) |
+|   [VirtualBox](https://www.virtualbox.org/wiki/Downloads)    |           适合个人使用的PC虚拟机           | [IMG](https://i.111666.best/image/JkhLVanGAlcEwxV54s0iAv.png) | 开源 | [链接](https://share.feijipan.com/s/ltDvjyEY) |
+| [VMware](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) |           适合企业使用的PC虚拟机           | [IMG](https://i.111666.best/image/M82xa0kekInlYB1O2yaPCu.jpg) | 破解 | [链接](https://share.feijipan.com/s/5DDvlUNy) |
+|    [Navicat](https://www.navicat.com.cn/products#navicat)    |              MySQL数据库管理               | [IMG](https://i.111666.best/image/Sg43DdbtwuFy5hhj7N80iH.png) | 破解 | [链接](https://share.feijipan.com/s/GeDvfHmQ) |
+|              [WindTerm](https://windterm.net/)               |                SSH远程工具                 | [IMG](https://i.111666.best/image/P0PiFyaWH2oI0tEjLRK8Wp.png) | 开源 | [链接](https://share.feijipan.com/s/prDvfNLJ) |
 
 ### 其他工具
 
@@ -96,4 +96,3 @@
 |     DirectX     |  运行库修复工具  |      | 民间 | [链接](https://share.feijipan.com/s/AgDvh3kB) |
 |     HWINFO      |   硬件检测工具   |      | 民间 | [链接](https://share.feijipan.com/s/YCDvh66T) |
 |     Checkit     |   硬件检测工具   |      | 民间 | [链接](https://share.feijipan.com/s/MCDvhgwX) |
-
