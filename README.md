@@ -96,4 +96,6 @@
 |     DirectX     |  运行库修复工具  |      | 民间 | [链接](https://share.feijipan.com/s/AgDvh3kB) |
 |     HWINFO      |   硬件检测工具   |      | 民间 | [链接](https://share.feijipan.com/s/YCDvh66T) |
 |     Checkit     |   硬件检测工具   |      | 民间 | [链接](https://share.feijipan.com/s/MCDvhgwX) |
+|      JPEGC      | 图片批量处理工具 |      | 民间 | [链接](https://share.feijipan.com/s/udDmyPvJ) |
+|    BCompare     | 文件文本对比工具 |      | 民间 | [链接](https://share.feijipan.com/s/7yDmyQ4u) |
 
