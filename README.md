@@ -82,20 +82,44 @@
 
 ### 其他工具
 
-|      名称       |       简介       | 图例 | 说明 |                     下载                      |
-| :-------------: | :--------------: | :--: | :--: | :-------------------------------------------: |
-|  WiFiPassWord   |  WIFi密码查看器  |      | 民间 | [链接](https://share.feijipan.com/s/czDvv326) |
-| SuperUnistaller | 专业软件卸载清理 |      | 民间 | [链接](https://share.feijipan.com/s/SzDvgotb) |
-|    IPTVCheck    | 直播源连通性检测 |      | 民间 | [链接](https://share.feijipan.com/s/vwDvyrBj) |
-|    eXeScope     |   DLL文件修改    |      | 民间 | [链接](https://share.feijipan.com/s/GNDvzVJ8) |
-|    M3U8Down     |   M3U8文件下载   |      | 民间 | [链接](https://share.feijipan.com/s/t0Dvz7rP) |
-|    TSMerger     |    TS文件合并    |      | 民间 | [链接](https://share.feijipan.com/s/JqDvzijI) |
-|     MSVBCRT     |  微软常用运行库  |      | 民间 | [链接](https://share.feijipan.com/s/pMDvhHId) |
-|     dotnet      |    .net运行库    |      | 民间 | [链接](https://share.feijipan.com/s/2pDvhXDt) |
-|    VisualCpp    |    c++运行库     |      | 民间 | [链接](https://share.feijipan.com/s/SWDvhWnq) |
-|     DirectX     |  运行库修复工具  |      | 民间 | [链接](https://share.feijipan.com/s/AgDvh3kB) |
-|     HWINFO      |   硬件检测工具   |      | 民间 | [链接](https://share.feijipan.com/s/YCDvh66T) |
-|     Checkit     |   硬件检测工具   |      | 民间 | [链接](https://share.feijipan.com/s/MCDvhgwX) |
-|      JPEGC      | 图片批量处理工具 |      | 民间 | [链接](https://share.feijipan.com/s/udDmyPvJ) |
-|    BCompare     | 文件文本对比工具 |      | 民间 | [链接](https://share.feijipan.com/s/7yDmyQ4u) |
+|      名称       |        简介         | 图例 | 说明 |                     下载                      |
+| :-------------: | :-----------------: | :--: | :--: | :-------------------------------------------: |
+|  WiFiPassWord   |   WIFi密码查看器    |      | 民间 | [链接](https://share.feijipan.com/s/czDvv326) |
+| SuperUnistaller |  专业软件卸载清理   |      | 民间 | [链接](https://share.feijipan.com/s/SzDvgotb) |
+|    IPTVCheck    |  直播源连通性检测   |      | 民间 | [链接](https://share.feijipan.com/s/vwDvyrBj) |
+|    eXeScope     |     DLL文件修改     |      | 民间 | [链接](https://share.feijipan.com/s/GNDvzVJ8) |
+|    M3U8Down     |    M3U8文件下载     |      | 民间 | [链接](https://share.feijipan.com/s/t0Dvz7rP) |
+|    TSMerger     |     TS文件合并      |      | 民间 | [链接](https://share.feijipan.com/s/JqDvzijI) |
+|     MSVBCRT     |   微软常用运行库    |      | 民间 | [链接](https://share.feijipan.com/s/pMDvhHId) |
+|     dotnet      |     .net运行库      |      | 民间 | [链接](https://share.feijipan.com/s/2pDvhXDt) |
+|    VisualCpp    |      c++运行库      |      | 民间 | [链接](https://share.feijipan.com/s/SWDvhWnq) |
+|     DirectX     |   运行库修复工具    |      | 民间 | [链接](https://share.feijipan.com/s/AgDvh3kB) |
+|     HWINFO      |    硬件检测工具     |      | 民间 | [链接](https://share.feijipan.com/s/YCDvh66T) |
+|     Checkit     |    硬件检测工具     |      | 民间 | [链接](https://share.feijipan.com/s/MCDvhgwX) |
+|      JPEGC      |  图片批量处理工具   |      | 民间 | [链接](https://share.feijipan.com/s/udDmyPvJ) |
+|    BCompare     |  文件文本对比工具   |      | 民间 | [链接](https://share.feijipan.com/s/7yDmyQ4u) |
+|       Wub       | 禁用Windows自动更新 |      | 民间 | [链接](https://share.feijipan.com/s/fqETBdZV) |
+|    AsrTools     |    提取视频字幕     |      | 民间 | [链接](https://share.feijipan.com/s/7yDmyQ4u) |
+
+### 安卓软件
+
+| 名称         | 简介             | 图例 | 说明 | 下载                                          |
+| ------------ | ---------------- | ---- | ---- | --------------------------------------------- |
+| WPSPro       | 专业版WPS        |      | 官方 | [链接](https://share.feijipan.com/s/tuDSyNRT) |
+| FolioReader  | RSS阅读器        |      | 民间 | [链接](https://share.feijipan.com/s/5EETBoQv) |
+| Antennapod   | 听播客           |      | 开源 | [链接](https://share.feijipan.com/s/eVETCDVQ) |
+| MoonReader   | 电子书阅读器     |      | 破解 | [链接](https://share.feijipan.com/s/OSETCbiW) |
+| SimpleReader | 电子书阅读器     |      | 开源 | [链接](https://share.feijipan.com/s/okETCeKT) |
+| OK           | TV影视壳         |      | 开源 | [链接](https://share.feijipan.com/s/VkETCxKK) |
+| Ku9          | TV影视壳         |      | 民间 | [链接](https://share.feijipan.com/s/61ETBL21) |
+| TiviMate     | TV影视壳         |      | 破解 | [链接](https://share.feijipan.com/s/sRETC2o6) |
+| BrowserHere  | TV浏览器         |      | 民间 | [链接](https://share.feijipan.com/s/x9ETCWr8) |
+| WiFiMaster   | WiFi万能钥匙     |      | 破解 | [链接](https://share.feijipan.com/s/3gETC6Yr) |
+| Share        | 第三方微博客户端 |      | 破解 | [链接](https://share.feijipan.com/s/h1ETCkCK) |
+| Clash.Meta   | 代理工具         |      | 开源 | [链接](https://share.feijipan.com/s/IRETCYFp) |
+| MahsaNG      | 代理工具         |      | 开源 | [链接](https://share.feijipan.com/s/U3ETCHQy) |
+|              |                  |      |      |                                               |
+|              |                  |      |      |                                               |
+
+### 推荐插件
 
