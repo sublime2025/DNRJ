@@ -31,6 +31,7 @@
 |                 [Xmind](https://xmind.cn/)                  |           思维导图           | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/dAzqoDo1dmMW4pAleYSn1e.png) | 破解 | [链接](https://share.feijipan.com/s/O6Dv1sCu) |
 | [DrawIO](https://github.com/jgraph/drawio-desktop/releases) |            流程图            | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/SwLvkE4O05ELErvoCJ14yo.png) | 开源 | [链接](https://share.feijipan.com/s/qqDv1L7l) |
 |  [FoxitPDFEditor](https://www.foxitsoftware.cn/downloads/)  |        福昕PDF编辑器         | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/UQIoycnvxPncLVmHV18Zig.png) | 破解 | [链接](https://share.feijipan.com/s/wZDv1Rwh) |
+|                        PDFCommander                         |        PDF去水印工具         |                             IMG                              | 民间 | [链接](https://share.feijipan.com/s/89EBCtwA) |
 
 ### 系统工具
 
@@ -118,8 +119,29 @@
 | Share        | 第三方微博客户端 |      | 破解 | [链接](https://share.feijipan.com/s/h1ETCkCK) |
 | Clash.Meta   | 代理工具         |      | 开源 | [链接](https://share.feijipan.com/s/IRETCYFp) |
 | MahsaNG      | 代理工具         |      | 开源 | [链接](https://share.feijipan.com/s/U3ETCHQy) |
-|              |                  |      |      |                                               |
-|              |                  |      |      |                                               |
+| Z-Lib        | 电子书下载       |      | 官方 | [链接](https://share.feijipan.com/s/6eEBDqAK) |
 
-### 推荐插件
+### [推荐插件]()
+
+| 名称                                                         | 简介                |
+| ------------------------------------------------------------ | ------------------- |
+| [BewlyBewly](https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp?hl=zh-CN&utm_source=ext_sidebar) | Bilibili页面美化    |
+| [BilibiliDownload](https://chromewebstore.google.com/detail/bilibili哔哩哔哩下载助手/bfcbfobhcjbkilcbehlnlchiinokiijp) | Bilibili下载助手    |
+| [TamperMonkey](https://chromewebstore.google.com/detail/篡改猴/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN&utm_source=ext_sidebar) | 网页脚本工具        |
+| [Cat-catch](https://chromewebstore.google.com/detail/猫抓/jfedfbgedapdagkghmgibemcoggfppbb) | 爬取网页视频        |
+| [KISS Translate](https://chromewebstore.google.com/detail/简约翻译/bdiifdefkgmcblbcghdlonllpjhhjgof?hl=zh-CN&utm_source=ext_sidebar) | 沉浸式翻译+划词翻译 |
+| [Infinity](https://chromewebstore.google.com/detail/infinity-新标签页-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-CN&utm_source=ext_sidebar) | 简约新标签页        |
+| [FireShot](https://chromewebstore.google.com/detail/捕捉网页截图-fireshot%E7%9A%84/mcbpblocgmgfnpjjppndjkmgjaogfceg) | 捕捉网页截图        |
+| [QRCode](https://chromewebstore.google.com/detail/QR码生成与识别/cbimgpnbgalffiohilfglgkkhpegpjlo) | 二维码生成与识别    |
+| [SuperCopy](https://chromewebstore.google.com/detail/supercopy-超级复制/onepmapfbjohnegdmfhndpefjkppbjkm?hl=zh-CN&utm_source=ext_sidebar) | 解锁复制限制        |
+| [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=zh-CN&utm_source=ext_sidebar) | 广告屏蔽工具        |
+| [User-Agent](https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg) | 浏览器代理          |
+| [Proxy Switchy Omega](https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN&utm_source=ext_sidebar) | 代理分流工具        |
+| [Telegram Video Downloader](https://chromewebstore.google.com/detail/telegram-video-downloader/ohepmjcobcbjaoffkejjlbbabdbjlejp?hl=zh-CN&utm_source=ext_sidebar) | 解锁电报下载限制    |
+| [Diantoushi](https://www.diantoushi.com/help.html)           | 店透视电商工具箱    |
+| [AmingChaCha](https://amingchacha.com/download)              | 阿明查查电商工具箱  |
+| [ZhiZunBao](https://zzb.3351r.com/)                          | 至尊宝电商工具箱    |
+| [HaShiQi](https://hsq.dangxun.com/)                          | 哈士奇电商工具箱    |
+| [DianChaCha](https://www.dianchacha.com/chajian/)            | 店查查电商工具箱    |
+|                                                              |                     |
 
