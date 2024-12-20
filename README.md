@@ -100,7 +100,7 @@
 |      JPEGC      |  图片批量处理工具   |      | 民间 | [链接](https://share.feijipan.com/s/udDmyPvJ) |
 |    BCompare     |  文件文本对比工具   |      | 民间 | [链接](https://share.feijipan.com/s/7yDmyQ4u) |
 |       Wub       | 禁用Windows自动更新 |      | 民间 | [链接](https://share.feijipan.com/s/fqETBdZV) |
-|    AsrTools     |    提取视频字幕     |      | 民间 | [链接](https://share.feijipan.com/s/7yDmyQ4u) |
+|    AsrTools     |    提取视频字幕     |      | 民间 | [链接](https://share.feijipan.com/s/b5ETB6AW) |
 
 ### 安卓软件
 
