@@ -80,9 +80,9 @@
 | [VMware](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) |           适合企业使用的PC虚拟机           | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/M82xa0kekInlYB1O2yaPCu.jpg) | 破解 | [链接](https://share.feijipan.com/s/5DDvlUNy) |
 |    [Navicat](https://www.navicat.com.cn/products#navicat)    |              MySQL数据库管理               | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/Sg43DdbtwuFy5hhj7N80iH.png) | 破解 | [链接](https://share.feijipan.com/s/GeDvfHmQ) |
 |              [WindTerm](https://windterm.net/)               |                SSH远程工具                 | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/P0PiFyaWH2oI0tEjLRK8Wp.png) | 开源 | [链接](https://share.feijipan.com/s/prDvfNLJ) |
-|     Ventoy      |     U盘装机程序     |   [IMG]()   | 官方 | [链接](https://share.feijipan.com/s/fkEBP8Qo) |
-|      Alist      |    网盘整合挂载     |   [IMG]()   | 官方 | [链接](https://share.feijipan.com/s/0DE4rUOs) |
-|    LocalSend    |   局域网传输文件    |   [IMG]()   | 官方 | [链接](https://share.feijipan.com/s/54E4rHf7) |
+|        [Ventoy](https://www.ventoy.net/cn/index.html)        |                U盘装机程序                 |                           [IMG]()                            | 官方 | [链接](https://share.feijipan.com/s/fkEBP8Qo) |
+|                 [Alist](https://ad.nn.ci/zh)                 |                网盘整合挂载                |                           [IMG]()                            | 官方 | [链接](https://share.feijipan.com/s/0DE4rUOs) |
+|           [LocalSend](https://localsend.org/zh-CN)           |               局域网传输文件               |                           [IMG]()                            | 官方 | [链接](https://share.feijipan.com/s/54E4rHf7) |
 
 ### 其他工具
 
