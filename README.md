@@ -103,6 +103,8 @@
 |    AsrTools     |    提取视频字幕     |      | 民间 | [链接](https://share.feijipan.com/s/b5ETB6AW) |
 |  TvBoxProvider  |  点播源有效性检测   |      | 民间 | [链接](https://share.feijipan.com/s/8rEHPBdC) |
 |     Ventoy      |     U盘装机程序     |      | 官方 | [链接](https://share.feijipan.com/s/fkEBP8Qo) |
+|      Alist      |    网盘整合挂载     |      | 官方 | [链接](https://share.feijipan.com/s/0DE4rUOs) |
+|    LocalSend    |   局域网传输文件    |      | 官方 | [链接](https://share.feijipan.com/s/54E4rHf7) |
 
 ### 安卓软件
 
@@ -146,4 +148,3 @@
 | [HaShiQi](https://hsq.dangxun.com/)                          | 哈士奇电商工具箱    |
 | [DianChaCha](https://www.dianchacha.com/chajian/)            | 店查查电商工具箱    |
 |                                                              |                     |
-
