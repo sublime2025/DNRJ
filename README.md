@@ -31,6 +31,7 @@
 |                 [Xmind](https://xmind.cn/)                  |           思维导图           | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/dAzqoDo1dmMW4pAleYSn1e.png) | 破解 | [链接](https://share.feijipan.com/s/O6Dv1sCu) |
 | [DrawIO](https://github.com/jgraph/drawio-desktop/releases) |            流程图            | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/SwLvkE4O05ELErvoCJ14yo.png) | 开源 | [链接](https://share.feijipan.com/s/qqDv1L7l) |
 |  [FoxitPDFEditor](https://www.foxitsoftware.cn/downloads/)  |        福昕PDF编辑器         | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/UQIoycnvxPncLVmHV18Zig.png) | 破解 | [链接](https://share.feijipan.com/s/wZDv1Rwh) |
+|  [EDrawMax](https://www.edrawsoft.com/zh-tw/download.html)  |        思维导图流程图        | [IMG](https://img.imgdd.com/f210f3.41d90d7a-26f1-4f95-a540-a2b51c04959b.png) | 破解 | [链接](https://share.feijipan.com/s/YlEa0ah5) |
 |                        PDFCommander                         |        PDF去水印工具         |                             IMG                              | 民间 | [链接](https://share.feijipan.com/s/89EBCtwA) |
 
 ### 系统工具
