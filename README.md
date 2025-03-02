@@ -13,11 +13,11 @@
 |        [MP3Tag](https://www.mp3tag.de/download.html)         |       音乐标签编辑器        | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/PSOrlByIP94N8MiuNB7bpV.png) | 官方 | [链接](https://share.feijipan.com/s/EVDv1Yrt) |
 |                                                              |                             |                                                              |      |                                               |
 |             [PotPlayer](https://potplayer.org/)              |     专业级的视频播放器      | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/oXHChIEJB7grja1hMnjtzM.png) | 官方 | [链接](https://share.feijipan.com/s/pKDv1WHa) |
-|       [MPC-BE](https://www.123684.com/s/IAFrVv-CRBWh)        | 替代Windows播放器的最佳方案 | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/SL3k9nOmwHVtOhHIPDTMd8.png) | 开源 | [链接](https://share.feijipan.com/s/LUDv13Rd) |
+|       [MPC-BE](https://www.123684.com/s/IAFrVv-CRBWh)        | 替代Windows播放器的最佳方案 | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/SL3k9nOmwHVtOhHIPDTMd8.png) | 开源 | [链接](https://share.feijipan.com/s/3uFjXjtd) |
 |  [VLC](https://www.videolan.org/vlc/download-windows.html)   |     跨平台的视频播放器      | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/fCNe7vCq5dgizvbcqgPJrj.jpeg) | 开源 | [链接](https://share.feijipan.com/s/SRDv1aZT) |
 |        [StromPlayer](http://www.baofeng.com/download)        |          暴风影音           | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/A2DkjYgp4BYboIyb3vzn29.png) | 精简 | [链接](https://share.feijipan.com/s/qPDv1c94) |
 |                                                              |                             |                                                              |      |                                               |
-|        [Bandicam](https://www.bandicam.cn/downloads/)        |   简单易用的视频录制工具    | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/5Tb8tzQt0WwCHyTyAl1smm.png) | 破解 | [链接](https://share.feijipan.com/s/5rDv1eJH) |
+|        [Bandicam](https://www.bandicam.cn/downloads/)        |   简单易用的视频录制工具    | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/5Tb8tzQt0WwCHyTyAl1smm.png) | 破解 | [链接](https://share.feijipan.com/s/wlFjXg2l) |
 |                [OBS](https://obsproject.com/)                |   适合直播的视频录制工具    | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/0AmzSyPxJ2HlR5wAFHatYE.png) | 开源 | [链接](https://share.feijipan.com/s/eNDv18CL) |
 
 ### 文本应用
