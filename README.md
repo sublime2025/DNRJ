@@ -24,15 +24,15 @@
 
 |                            名称                             |             简介             |                             图例                             | 说明 |                     下载                      |
 | :---------------------------------------------------------: | :--------------------------: | :----------------------------------------------------------: | :--: | :-------------------------------------------: |
-|              [Notepad2](https://notepad2.com/)              |    完美替代Windows记事本     | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/SGL26VNyZOPyEf4CIvcxr4.png) | 官方 | [链接](https://share.feijipan.com/s/FHDv1w5F) |
+|              [Notepad4](https://notepad2.com/)              |    完美替代Windows记事本     | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/SGL26VNyZOPyEf4CIvcxr4.png) | 官方 | [链接](https://share.feijipan.com/s/IAFm1NVe) |
 |     [SublimeText](https://www.sublimetext.com/download)     | 功能强大且美观的文本处理工具 | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/wqR05WqvzqWU1QM91dKPVv.png) | 破解 | [链接](https://share.feijipan.com/s/YZDv1jnP) |
-|          [DocReader](https://www.daokeyuedu.com/)           |      稻壳电子文档阅读器      | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/YUYkzADXKOfPbph9gszW1Q.png) | 官方 | [链接](https://share.feijipan.com/s/p0Dv1oB2) |
+|          [DocReader](https://www.daokeyuedu.com/)           |      全能电子文档阅读器      | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/YUYkzADXKOfPbph9gszW1Q.png) | 官方 | [链接](https://share.feijipan.com/s/p0Dv1oB2) |
 |          [Typora](https://typora.io/releases/all)           |        MarkDown编辑器        | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/SgBDNeV8EfNnjbb1Pb0Ifj.png) | 破解 | [链接](https://share.feijipan.com/s/oYDv1r4g) |
 |                 [Xmind](https://xmind.cn/)                  |           思维导图           | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/dAzqoDo1dmMW4pAleYSn1e.png) | 破解 | [链接](https://share.feijipan.com/s/O6Dv1sCu) |
 | [DrawIO](https://github.com/jgraph/drawio-desktop/releases) |            流程图            | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/SwLvkE4O05ELErvoCJ14yo.png) | 开源 | [链接](https://share.feijipan.com/s/qqDv1L7l) |
 |  [FoxitPDFEditor](https://www.foxitsoftware.cn/downloads/)  |        福昕PDF编辑器         | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/UQIoycnvxPncLVmHV18Zig.png) | 破解 | [链接](https://share.feijipan.com/s/wZDv1Rwh) |
 |  [EDrawMax](https://www.edrawsoft.com/zh-tw/download.html)  |        思维导图流程图        | [IMG](https://img.imgdd.com/f210f3.41d90d7a-26f1-4f95-a540-a2b51c04959b.png) | 破解 | [链接](https://share.feijipan.com/s/YlEa0ah5) |
-|                        PDFCommander                         |        PDF去水印工具         |                             IMG                              | 民间 | [链接](https://share.feijipan.com/s/89EBCtwA) |
+|                      [PDFCommander]()                       |        PDF去水印工具         |                             IMG                              | 民间 | [链接](https://share.feijipan.com/s/89EBCtwA) |
 
 ### 系统工具
 
@@ -42,12 +42,13 @@
 |             [WinRAR](https://www.winrar.com.cn/)             |        老牌经典有广告的解压缩软件        | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/sxKN1rhqzzERmotjhe1Krz.png) | 绿色 | [链接](https://share.feijipan.com/s/HsDv2E2q) |
 |               [360Zip](https://yasuo.360.cn/)                |        国内经典有弹窗的解压缩软件        | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/nHmXm3n2byxTgwapFoLd0w.png) | 官方 | [链接](https://share.feijipan.com/s/WmDv2FeM) |
 |                  [7Zip](https://7-zip.org/)                  |             极简的解压缩软件             | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/roNBF3g0Y7WS7saEsOpy17.png) | 开源 | [链接](https://share.feijipan.com/s/9lDv2HCB) |
-|     [PeaZip](https://github.com/peazip/PeaZip/releases)      |            跨平台的解压缩软件            | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/fRZwU8qKuRRvr4Lp6MA2lq.png) | 开源 | [链接](https://share.feijipan.com/s/O5Dv20V7) |
+|     [PeaZip](https://github.com/peazip/PeaZip/releases)      |       跨平台的解压缩软件(文件加密)       | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/fRZwU8qKuRRvr4Lp6MA2lq.png) | 开源 | [链接](https://share.feijipan.com/s/O5Dv20V7) |
 |                                                              |                                          |                                                              |      |                                               |
 |                [QQ拼音](http://qq.pinyin.cn/)                |                无广告弹窗                |                             IMG                              | 官方 | [链接](https://share.feijipan.com/s/7ODv2Ol8) |
+|                        [搜狗输入法]()                        |                去广告弹窗                |                             IMG                              | 精简 | [链接](https://share.feijipan.com/s/wiFm1fxL) |
 |            [卡饭输入法](https://input.kfsafe.cn/)            |              整合拼音和五笔              |                             IMG                              | 官方 | [链接](https://share.feijipan.com/s/gMDv2YjL) |
-|   [手心输入法](https://www.xinshuru.com/index.html?p=win)    |            已停更的干净输入法            |                             IMG                              | 官方 | [链接](https://share.feijipan.com/s/WbDv2Wsy) |
-|              [Rime](https://rime.im/download/)               |      高度自定义的输入法，上手难度高      |                             IMG                              | 开源 | [链接](https://share.feijipan.com/s/SqDv2Q9M) |
+|   [手心输入法](https://www.xinshuru.com/index.html?p=win)    |              一个干净输入法              |                             IMG                              | 官方 | [链接](https://share.feijipan.com/s/WbDv2Wsy) |
+|              [Rime](https://rime.im/download/)               |            高度自定义的输入法            |                             IMG                              | 开源 | [链接](https://share.feijipan.com/s/SqDv2Q9M) |
 |                                                              |                                          |                                                              |      |                                               |
 |               [PixPin](https://pixpinapp.com/)               | 截图工具，支持OCR识别，滚动截图，GIF录制 | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/Dq0NlnLaP1jGNBtpzopInT.png) | 开源 | [链接](https://share.feijipan.com/s/92Dv2aBd) |
 |   [Everything](https://www.voidtools.com/zh-cn/downloads/)   |             快速检索磁盘文件             | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/cOPqGCnkNsBn8CaKq82W1g.png) | 开源 | [链接](https://share.feijipan.com/s/FPDv2rbT) |
@@ -60,9 +61,10 @@
 |         [Geek](https://geekuninstaller.com/download)         |           同样为轻量级的替代品           | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/K76mKhNuB0uYLxPl1kngXk.png) | 官方 | [链接](https://share.feijipan.com/s/uGDv2i7R) |
 |                      [DriverBooster]()                       |               驱动管理工具               | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/BX11FvVa4We7jVQnweRAgy.png) | 官方 | [链接](https://share.feijipan.com/s/ZyExDl3i) |
 |                          [System]()                          |               系统清理工具               | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/jbf59MpI5lLtCfJv9tY0XT.png) | 官方 | [链接](https://share.feijipan.com/s/AiExEZLv) |
+|          [HopToDesk](https://www.hoptodesk.com/cn)           |               远程控制软件               | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/IVuGGwSeuY3umNgjgwB9uU.png) | 官方 | [链接](https://share.feijipan.com/s/EbFm1WKT) |
 |                                                              |                                          |                                                              |      |                                               |
 |       [IDM](https://www.internetdownloadmanager.com/)        |       多线程下载，嗅探网页媒体资源       | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/mZfUBR9T0jmwjMmVk1dzbk.png) | 破解 | [链接](https://share.feijipan.com/s/0dDv2dAQ) |
-|               [迅雷](https://www.xunlei.com/)                |       多线程下载，嗅探网页媒体资源       | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/Af0nePWg2Mswcr8SPe69Oq.png) | 精简 | [链接](https://share.feijipan.com/s/r2Dv25eF) |
+|               [迅雷](https://www.xunlei.com/)                |       多线程下载，嗅探网页媒体资源       | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/Af0nePWg2Mswcr8SPe69Oq.png) | 精简 | [链接](https://share.feijipan.com/s/x0Fm2Ssi) |
 |                                                              |                                          |                                                              |      |                                               |
 |          [花瓣护眼](http://eyecare.joyfartech.com/)          |          简单调节屏幕色温和亮度          | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/AXZLqUTlq8aFyMgJmC6Iag.png) | 官方 | [链接](https://share.feijipan.com/s/tCDv3itY) |
 |            [酷呆桌面](https://www.coodesker.com/)            |     无捆绑弹窗的桌面整理工具(Win10-)     |                             IMG                              | 官方 | [链接](https://share.feijipan.com/s/SvDv33is) |
@@ -85,9 +87,9 @@
 |    [Navicat](https://www.navicat.com.cn/products#navicat)    |              MySQL数据库管理               | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/Sg43DdbtwuFy5hhj7N80iH.png) | 破解 | [链接](https://share.feijipan.com/s/GeDvfHmQ) |
 |              [WindTerm](https://windterm.net/)               |                SSH远程工具                 | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/P0PiFyaWH2oI0tEjLRK8Wp.png) | 开源 | [链接](https://share.feijipan.com/s/prDvfNLJ) |
 |        [Ventoy](https://www.ventoy.net/cn/index.html)        |                U盘装机程序                 |                           [IMG]()                            | 官方 | [链接](https://share.feijipan.com/s/fkEBP8Qo) |
-|                 [Alist](https://ad.nn.ci/zh)                 |                网盘整合挂载                |                           [IMG]()                            | 官方 | [链接](https://share.feijipan.com/s/0DE4rUOs) |
+|                 [Alist](https://ad.nn.ci/zh)                 |                网盘整合挂载                | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/9y7Q7IF8SEcstkwk4r4f2T.png) | 官方 | [链接](https://share.feijipan.com/s/0DE4rUOs) |
 |           [LocalSend](https://localsend.org/zh-CN)           |               局域网传输文件               |                           [IMG]()                            | 官方 | [链接](https://share.feijipan.com/s/54E4rHf7) |
-|                         [TTSMark]()                          |                 文本转语音                 | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/7G2OeRl63fmYIFnAlui7U0.png) | 民间 | [链接](https://share.feijipan.com/s/CJExFlBI) |
+|                                                              |                                            |                                                              |      |                                               |
 
 ### 其他工具
 
@@ -111,7 +113,7 @@
 |    AsrTools     |    提取视频字幕     |                           [IMG]()                            | 民间 | [链接](https://share.feijipan.com/s/b5ETB6AW) |
 |  TvBoxProvider  |  点播源有效性检测   |                           [IMG]()                            | 民间 | [链接](https://share.feijipan.com/s/8rEHPBdC) |
 |  WindowsTools   | Windows实用设置工具 | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/FUy4CP6oLFMkqwDTXi1KCS.png) | 民间 | [链接](https://share.feijipan.com/s/9kExD1lx) |
-|                 |                     |                                                              |      |                                               |
+|     TTSMark     |     文本转语音      | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/7G2OeRl63fmYIFnAlui7U0.png) | 民间 | [链接](https://share.feijipan.com/s/CJExFlBI) |
 
 ### 安卓软件
 
@@ -140,7 +142,7 @@
 | [BilibiliDownload](https://chromewebstore.google.com/detail/bilibili哔哩哔哩下载助手/bfcbfobhcjbkilcbehlnlchiinokiijp) | Bilibili下载助手    |
 | [TamperMonkey](https://chromewebstore.google.com/detail/篡改猴/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN&utm_source=ext_sidebar) | 网页脚本工具        |
 | [Cat-catch](https://chromewebstore.google.com/detail/猫抓/jfedfbgedapdagkghmgibemcoggfppbb) | 爬取网页视频        |
-| [KISS Translate](https://chromewebstore.google.com/detail/简约翻译/bdiifdefkgmcblbcghdlonllpjhhjgof?hl=zh-CN&utm_source=ext_sidebar) | 沉浸式翻译+划词翻译 |
+| [Keke Translate](https://chromewebstore.google.com/detail/可可翻译－翻译，页面翻译，词典/icfnljfpacimpcbpammmbclmhenimhfc?hl=zh-CN&utm_source=ext_sidebar) | 沉浸式翻译+划词翻译 |
 | [Infinity](https://chromewebstore.google.com/detail/infinity-新标签页-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-CN&utm_source=ext_sidebar) | 简约新标签页        |
 | [FireShot](https://chromewebstore.google.com/detail/捕捉网页截图-fireshot%E7%9A%84/mcbpblocgmgfnpjjppndjkmgjaogfceg) | 捕捉网页截图        |
 | [QRCode](https://chromewebstore.google.com/detail/QR码生成与识别/cbimgpnbgalffiohilfglgkkhpegpjlo) | 二维码生成与识别    |
