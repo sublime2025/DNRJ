@@ -5,7 +5,6 @@
 |   [JPEGView](https://github.com/sylikc/jpegview/releases/)   |    轻量级无边框看图软件     | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/mRcKUwwb09iUXS80Rbzcyh.png) | 开源 |        [链接](https://share.feijipan.com/s/VQDvQRcP)         |
 |            [NexusImages](https://www.xiles.app/)             |    轻量级无边框看图软件     | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/Uw9uFFzhKFtFsVzhRQpRh4.jpg) | 官方 |        [链接](https://share.feijipan.com/s/2LDvQKj2)         |
 |    [ImageEye](https://www.fmjsoft.com/imageeye.html#main)    |    轻量级无边框看图软件     | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/bjqEAPT7m2C1hNKWQICo1P.jpg) | 官方 |        [链接](https://share.feijipan.com/s/PYDv1Ab3)         |
-|                           LanShan                            |     现代化极简看图软件      |                           [IMG]()                            | 官方 | [链接](https://zyogu.lanshan.com/ktw/ls/ol/setup_LSPicture.exe) |
 |                                                              |                             |                                                              |      |                                                              |
 | [MusicFree](https://github.com/maotoumao/MusicFree/releases) | 通过插件实现跨平台听歌下载  | [IMG](https://i.111666.best/image/IO9tQA2E5H62ju65PsjOi1.png) | 开源 |        [链接](https://share.feijipan.com/s/uFE2NRUV)         |
 | [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) |       本地音乐播放器        | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/uazLODUwTfbY0yXRq1Ugbp.png) | 开源 |        [链接](https://share.feijipan.com/s/KWDv10My)         |
@@ -16,7 +15,6 @@
 |             [PotPlayer](https://potplayer.org/)              |     专业级的视频播放器      | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/oXHChIEJB7grja1hMnjtzM.png) | 官方 |        [链接](https://share.feijipan.com/s/pKDv1WHa)         |
 |       [MPC-BE](https://www.123684.com/s/IAFrVv-CRBWh)        | 替代Windows播放器的最佳方案 | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/SL3k9nOmwHVtOhHIPDTMd8.png) | 开源 |        [链接](https://share.feijipan.com/s/3uFjXjtd)         |
 |  [VLC](https://www.videolan.org/vlc/download-windows.html)   |     跨平台的视频播放器      | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/fCNe7vCq5dgizvbcqgPJrj.jpeg) | 开源 |        [链接](https://share.feijipan.com/s/SRDv1aZT)         |
-|        [StromPlayer](http://www.baofeng.com/download)        |          暴风影音           | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/A2DkjYgp4BYboIyb3vzn29.png) | 精简 |        [链接](https://share.feijipan.com/s/qPDv1c94)         |
 |                                                              |                             |                                                              |      |                                                              |
 |        [Bandicam](https://www.bandicam.cn/downloads/)        |   简单易用的视频录制工具    | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/5Tb8tzQt0WwCHyTyAl1smm.png) | 破解 |        [链接](https://share.feijipan.com/s/wlFjXg2l)         |
 |                [OBS](https://obsproject.com/)                |   适合直播的视频录制工具    | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/0AmzSyPxJ2HlR5wAFHatYE.png) | 开源 |        [链接](https://share.feijipan.com/s/eNDv18CL)         |
@@ -26,7 +24,7 @@
 
 |                            名称                             |             简介             |                             图例                             | 说明 |                     下载                      |
 | :---------------------------------------------------------: | :--------------------------: | :----------------------------------------------------------: | :--: | :-------------------------------------------: |
-|              [Notepad4](https://notepad2.com/)              |    完美替代Windows记事本     | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/SGL26VNyZOPyEf4CIvcxr4.png) | 官方 | [链接](https://share.feijipan.com/s/IAFm1NVe) |
+|              [Notepad4](https://github.com/zufuliu/notepad4)              |    完美替代Windows记事本     | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/SGL26VNyZOPyEf4CIvcxr4.png) | 官方 | [链接](https://share.feijipan.com/s/IAFm1NVe) |
 |     [SublimeText](https://www.sublimetext.com/download)     | 功能强大且美观的文本处理工具 | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/wqR05WqvzqWU1QM91dKPVv.png) | 破解 | [链接](https://share.feijipan.com/s/YZDv1jnP) |
 |          [DocReader](https://www.daokeyuedu.com/)           |      全能电子文档阅读器      | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/YUYkzADXKOfPbph9gszW1Q.png) | 官方 | [链接](https://share.feijipan.com/s/p0Dv1oB2) |
 |          [Typora](https://typora.io/releases/all)           |        MarkDown编辑器        | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/SgBDNeV8EfNnjbb1Pb0Ifj.png) | 破解 | [链接](https://share.feijipan.com/s/oYDv1r4g) |
@@ -89,7 +87,7 @@
 |    [Navicat](https://www.navicat.com.cn/products#navicat)    |              MySQL数据库管理               | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/Sg43DdbtwuFy5hhj7N80iH.png) | 破解 | [链接](https://share.feijipan.com/s/GeDvfHmQ) |
 |              [WindTerm](https://windterm.net/)               |                SSH远程工具                 | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/P0PiFyaWH2oI0tEjLRK8Wp.png) | 开源 | [链接](https://share.feijipan.com/s/u1FIBwDT) |
 |        [Ventoy](https://www.ventoy.net/cn/index.html)        |                U盘装机程序                 |                           [IMG]()                            | 官方 | [链接](https://share.feijipan.com/s/fkEBP8Qo) |
-|                 [Alist](https://ad.nn.ci/zh)                 |                网盘整合挂载                | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/9y7Q7IF8SEcstkwk4r4f2T.png) | 官方 | [链接](https://share.feijipan.com/s/0DE4rUOs) |
+|                 [Openlist](https://doc.oplist.org/)                 |                网盘整合挂载                | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/9y7Q7IF8SEcstkwk4r4f2T.png) | 官方 | [链接](https://share.feijipan.com/s/0DE4rUOs) |
 |           [LocalSend](https://localsend.org/zh-CN)           |               局域网传输文件               |                           [IMG]()                            | 官方 | [链接](https://share.feijipan.com/s/54E4rHf7) |
 |                                                              |                                            |                                                              |      |                                               |
 
