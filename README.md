@@ -114,8 +114,6 @@
 |       Wub       | 禁用Windows自动更新 |                           [IMG]()                            | 民间 | [链接](https://share.feijipan.com/s/fqETBdZV) |
 |    AsrTools     |    提取视频字幕     |                           [IMG]()                            | 民间 | [链接](https://share.feijipan.com/s/b5ETB6AW) |
 |  TvBoxProvider  |  点播源有效性检测   |                           [IMG]()                            | 民间 | [链接](https://share.feijipan.com/s/8rEHPBdC) |
-|  WindowsTools   | Windows实用设置工具 | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/FUy4CP6oLFMkqwDTXi1KCS.png) | 民间 | [链接](https://share.feijipan.com/s/9kExD1lx) |
-|     TTSMark     |     文本转语音      | [IMG](https://xviewer.pages.dev/d/?i=https://i.111666.best/image/7G2OeRl63fmYIFnAlui7U0.png) | 民间 | [链接](https://share.feijipan.com/s/CJExFlBI) |
 
 ### 安卓软件
 
