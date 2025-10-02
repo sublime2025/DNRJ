@@ -5,7 +5,7 @@
 | [QView](https://github.com/jurplel/qView)                    | 无边框看图软件       |
 | [JPEGView](https://github.com/sylikc/jpegview/)              | 无边框看图软件       |
 | [MPC-BE](https://github.com/Aleksoid1978/MPC-BE)             | 简约视频播放器       |
-| [MPC_QT](https://github.com/mpc-qt/mpc-qt)                   | 简约视频播放器       |
+| [MPC-QT](https://github.com/mpc-qt/mpc-qt)                   | 简约视频播放器       |
 | [MusicFree](https://github.com/maotoumao/MusicFree/)         | 跨平台听歌下载       |
 | [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) | 本地音乐播放器       |
 | [Notepad4](https://github.com/zufuliu/notepad4)              | 记事本               |
@@ -33,49 +33,92 @@
 | [TVBoxsp](https://github.com/openmynet/tvboxsp)              | 视频源检测与合并工具 |
 | [AsrTools](https://github.com/WEIFENG2333/AsrTools)          | 智能字幕助手         |
 | [SmartSub](https://github.com/buxuku/SmartSub)               | 智能字幕助手         |
-| [PicX](https://github.com/XPoet/picx)                        | 图床搭工具建         |
+| [PicX](https://github.com/XPoet/picx)                        | 图床工具搭建         |
 | [echarts](https://github.com/apache/echarts)                 | 图表数据可视化       |
 | [AndroidMic](https://github.com/teamclouday/AndroidMic)      | 手机电脑麦克风       |
 | [aliyunpan](https://github.com/gaozhangmin/aliyunpan)        | 第三方阿里云盘       |
+| [ventoy](https://github.com/ventoy/Ventoy)                   | 系统U盘制作          |
+| [qalculate](https://github.com/Qalculate/qalculate-gtk)      | 科学计算器           |
+| [OBS](https://github.com/obsproject/obs-studio)              | 直播录屏             |
+| [kdenlive](https://github.com/KDE/kdenlive)                  | 视频剪辑             |
+| [VLC](https://github.com/videolan/vlc)                       | 视频播放器           |
+|                                                              |                      |
 
 ### 官方软件
 
-| 官方软件                                                     | 简介         | 下载地址                                           |
-| ------------------------------------------------------------ | ------------ | -------------------------------------------------- |
-| [CentBrowser](http://www.centbrowser.cn/)                    | Google浏览器 | [Repack](https://xiaodao.lanzoui.com/b0dqer4kf)    |
-| [FormatFactory](http://www.pcgeshi.com/)                     | 格式转换工厂 | [Repack](https://xiaodao.lanzoux.com/b0dpysqna)    |
-| [VirtualBox](https://www.virtualbox.org/wiki/Downloads)      | PC虚拟机     | [Repack]()                                         |
-| [KFinput](https://input.kfsafe.cn/)                          | 卡饭输入法   | [Repack]()                                         |
-| [QQ](https://im.qq.com/pcqq/index.shtml)                     | 腾讯QQ       | [Repack](https://xiaodao.lanzoux.com/b0dpzgach)    |
-| [QQMusic](https://y.qq.com/download/index.html)              | QQ音乐       | [Repack](https://423down.lanzouo.com/iQpbP35s23li) |
-| [KuwoMusic](https://www.kuwo.cn/down)                        | 酷我音乐     | [Repack]()                                         |
-| [MP3Tag](https://www.mp3tag.de/download.html)                | 音乐标签管理 | [Repack](https://xiaodao.lanzout.com/b0dqvaz1c)    |
-| [SublimeText](https://www.sublimetext.com/download)          | 文本编辑器   | [Repack](https://xiaodao.lanzoux.com/b0dqc4pgh)    |
-| [Typora](https://typora.io/releases/all)                     | Markdown编辑 | [Repack](https://xiaodao.lanzout.com/b0dtxy6of)    |
-| [Xmind](https://xmind.cn/)                                   | 思维导图     | [Repack](https://xiaodao.lanzout.com/b032cy0yxa)   |
-| [FoxitPDFEditor](https://www.foxitsoftware.cn/downloads/)    | 福昕PDF      | [Repack](https://www.123pan.com/s/A6cA-8RHJh)      |
-| [EDrawMax](https://www.edrawsoft.com/zh-tw/download.html)    | 亿图图示     | [Repack](https://xiaodao.lanzout.com/b0dro0tcb)    |
-| [BandiZip](https://www.bandisoft.com/bandizip/)              | 班迪压缩     | [Repack](https://423down.lanzouo.com/b0f1mc0cd)    |
-| [WinRAR](https://www.winrar.com.cn/)                         | 解压软件     | [Repack](https://423down.lanzouo.com/b105455)      |
-| [SougouInput](https://shurufa.sogou.com/windows)             | 搜狗输入法   | [Repack](https://xiaodao.lanzoux.com/b0dq19v5g)    |
-| [LDMNQ](https://www.ldmnq.com/)                              | 雷电模拟器   | [Repack](https://423down.lanzouo.com/b03fl82kab)   |
-| [VMware](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) | 虚拟机软件   | [Repack](https://423down.lanzouo.com/b0f2z2b9a)    |
-| [Navicat](https://www.navicat.com.cn/products#navicat)       | 数据库管理   | [Repack](https://www.123pan.cn/s/HQeA-7R1Sh)       |
+| 官方软件                                                     | 简介         | 下载地址                                                |
+| ------------------------------------------------------------ | ------------ | ------------------------------------------------------- |
+| [CentBrowser](http://www.centbrowser.cn/)                    | Google浏览器 | [Repack](https://xiaodao.lanzoui.com/b0dqer4kf)         |
+| [WinRAR](https://www.winrar.com.cn/)                         | 解压软件     | [Repack](https://423down.lanzouo.com/b105455)           |
+| [BandiZip](https://www.bandisoft.com/bandizip/)              | 班迪压缩     | [Repack](https://423down.lanzouo.com/b0f1mc0cd)         |
+| [KFinput](https://input.kfsafe.cn/)                          | 卡饭输入法   | [Repack](https://github.com/sublime2025/DNRJ/blob/main) |
+| [SougouInput](https://shurufa.sogou.com/windows)             | 搜狗输入法   | [Repack](https://xiaodao.lanzoux.com/b0dq19v5g)         |
+| [LDMNQ](https://www.ldmnq.com/)                              | 雷电模拟器   | [Repack](https://423down.lanzouo.com/b03fl82kab)        |
+| [VirtualBox](https://www.virtualbox.org/wiki/Downloads)      | PC虚拟机     | [Repack](https://github.com/sublime2025/DNRJ/blob/main) |
+| [VMware](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) | PC虚拟机     | [Repack](https://423down.lanzouo.com/b0f2z2b9a)         |
+| [Navicat](https://www.navicat.com.cn/products#navicat)       | 数据库管理   | [Repack](https://www.123pan.cn/s/HQeA-7R1Sh)            |
+| [FormatFactory](http://www.pcgeshi.com/)                     | 格式转换工厂 | [Repack](https://xiaodao.lanzoux.com/b0dpysqna)         |
+| [Typora](https://typora.io/releases/all)                     | Markdown编辑 | [Repack](https://xiaodao.lanzout.com/b0dtxy6of)         |
+| [Xmind](https://xmind.cn/)                                   | 思维导图     | [Repack](https://xiaodao.lanzout.com/b032cy0yxa)        |
+| [EDrawMax](https://www.edrawsoft.com/zh-tw/download.html)    | 亿图图示     | [Repack](https://xiaodao.lanzout.com/b0dro0tcb)         |
+| [FoxitPDFEditor](https://www.foxitsoftware.cn/downloads/)    | 福昕PDF      | [Repack](https://www.123pan.com/s/A6cA-8RHJh)           |
+| [SublimeText](https://www.sublimetext.com/download)          | 文本编辑器   | [Repack](https://xiaodao.lanzoux.com/b0dqc4pgh)         |
+| [MP3Tag](https://www.mp3tag.de/download.html)                | 音乐标签管理 | [Repack](https://xiaodao.lanzout.com/b0dqvaz1c)         |
+| [KuwoMusic](https://www.kuwo.cn/down)                        | 酷我音乐     | [Repack](https://github.com/sublime2025/DNRJ/blob/main) |
+| [QQMusic](https://y.qq.com/download/index.html)              | QQ音乐       | [Repack](https://423down.lanzouo.com/iQpbP35s23li)      |
+| [QQ](https://im.qq.com/pcqq/index.shtml)                     | 腾讯QQ       | [Repack](https://xiaodao.lanzoux.com/b0dpzgach)         |
+| [WiseCare](https://www.wisecleaner.com/)                     | 系统清理优化 | [Repack](https://xiaodao.lanzout.com/b032daarkh)        |
+| [FontCreator](https://fontcreator.com.cn/)                   | 字体编辑构建 | [Repack](https://xiaodao.lanzout.com/b032daarkh)        |
+| [IDM](https://www.internetdownloadmanager.com/)              | 下载管理器   | [Repack](https://xiaodao.lanzout.com/b032c3whmd)        |
+| [PixPin](https://pixpin.cn/)                                 | 截图工具     | [Repack](https://download.pixpin.cn/PixPin_2.0.0.3.zip) |
+| [WPSPro]()                                                   | 金山办公软件 | [Repack](https://www.123pan.com/s/lw5A-4POTd)           |
+| [Imagine](https://www.nyam.pe.kr/dev/imagine/)               | 专业看图软件 | [Repack]()                                              |
+| [2345Pic](https://www.123684.com/s/K4u3vd-tf70A)             | 看图软件     | [Repeak](https://www.123684.com/s/K4u3vd-tf70A)         |
+| [Bandicam](https://www.bandicam.cn/)                         | 班迪录屏     | [Repack](https://423down.lanzouo.com/b0f197pud)         |
 
 ### 其他工具
 
-| 其它工具     | 简介             | 下载地址                                   |
-| ------------ | ---------------- | ------------------------------------------ |
-| PDFCommander | PDF去水印工具    | [🔗]()                                      |
-| DocReader    | 全能电子阅读器   | [🔗]()                                      |
-| WiFiPassword | WIFi密码查看器   | [🔗]()                                      |
-| IPTVCheck    | 直播源连通性检测 | [🔗]()                                      |
-| eXeScope     | DLL文件修改      | [🔗]()                                      |
-| M3U8Down     | M3U8文件下载     | [🔗]()                                      |
-| TSMerger     | TS文件合并       | [🔗]()                                      |
-| MSVBCRT      | 微软常用运行库   | [🔗](https://www.lanzoux.com/b0dptvb0f)     |
-| DirectX      | 组件库修复工具   | [🔗](https://423down.lanzouo.com/b0f1dlg3a) |
-|              |                  |                                            |
+| 其它工具             | 简介                | 下载地址                                   |
+| -------------------- | ------------------- | ------------------------------------------ |
+| PDFCommander         | PDF去水印工具       | [🔗]()                                      |
+| DocReader            | 全能电子阅读器      | [🔗]()                                      |
+| WiFiPassword         | WIFi密码查看器      | [🔗]()                                      |
+| IPTVCheck            | 直播源连通性检测    | [🔗]()                                      |
+| eXeScope             | DLL文件修改         | [🔗]()                                      |
+| M3U8Down             | M3U8文件下载        | [🔗]()                                      |
+| TSMerger             | TS文件合并          | [🔗]()                                      |
+| MSVBCRT              | 微软常用运行库      | [🔗](https://www.lanzoux.com/b0dptvb0f)     |
+| DirectX              | 组件库修复工具      | [🔗](https://423down.lanzouo.com/b0f1dlg3a) |
+| NTLite               | Windows系统封装优化 | [🔗]()                                      |
+| KeyTweak             | 按键映射显示        | [🔗]()                                      |
+| IObit_Unlock         | 文件占用解锁        | [🔗]()                                      |
+| PetalEyeCar          | 花瓣护眼            | [🔗]()                                      |
+| JPGC                 | 图片批处理          | [🔗]()                                      |
+| BCompare             | 文件比对            | [🔗]()                                      |
+| CareUEyes            | 护眼工具            | [🔗](https://xiaodao.lanzoui.com/b0dqxi11i) |
+| MyPublicWiFi         | WiFi共享管理        | [🔗]()                                      |
+| IriunWebcam          | 网络摄像头          | [🔗]()                                      |
+| Drop Icons           | 图标查看            | [🔗]()                                      |
+| USBSafelyRemove      | USB安全移除         | [🔗]()                                      |
+| Printer Share        | 打印机共享维护      | [🔗]()                                      |
+| FileRename           | 批量重命名          | [🔗]()                                      |
+| Fix_Default          | 默认应用设置        | [🔗]()                                      |
+| KeymouseGo           | 鼠标键盘自动化工具  | [🔗]()                                      |
+| zghy                 | 追光护眼工具        | [🔗]()                                      |
+| WindowsUpdateBlocker | Windows关闭更新     | [🔗]()                                      |
+| Uninstal             | 软件卸载            | [🔗]()                                      |
+| HopeToDesk           | 远程控制软件        | [🔗]()                                      |
+| Everthing            | 文件快速搜索        | [🔗]()                                      |
+| HiBitUninstaller     | 软件卸载            | [🔗]()                                      |
+| Geek                 | 软件卸载            | [🔗]()                                      |
+| DriverEasy           | 驱动管理            | [🔗](https://www.123684.com/s/K4u3vd-MUb0A) |
+| AdvancedSystemCare   | 系统清理优化        | [🔗]()                                      |
+| Devink               | 硬件检测            | [🔗]()                                      |
+| DiskFreeze           | 重启还原系统        | [🔗]()                                      |
+|                      |                     |                                            |
+|                      |                     |                                            |
+|                      |                     |                                            |
+|                      |                     |                                            |
 
 ### 安卓软件
 
@@ -90,6 +133,11 @@
 | Ku9          | TV影视壳     |      |
 | TiviMate     | TV影视壳     |      |
 | BrowserHere  | TV浏览器     |      |
+| WiFiMater    | 万能钥匙     |      |
+|              |              |      |
+|              |              |      |
+|              |              |      |
+|              |              |      |
 
 ### 推荐插件
 
@@ -114,4 +162,3 @@
 | [ZhiZunBao](https://zzb.3351r.com/)                          | 至尊宝电商工具箱    |
 | [HaShiQi](https://hsq.dangxun.com/)                          | 哈士奇电商工具箱    |
 | [DianChaCha](https://www.dianchacha.com/chajian/)            | 店查查电商工具箱    |
-
