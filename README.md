@@ -42,7 +42,7 @@
 | [OBS](https://github.com/obsproject/obs-studio)              | 直播录屏             |
 | [kdenlive](https://github.com/KDE/kdenlive)                  | 视频剪辑             |
 | [VLC](https://github.com/videolan/vlc)                       | 视频播放器           |
-|                                                              |                      |
+| [OpenCut](https://github.com/OpenCut-app/OpenCut)            | 视频剪辑             |
 
 ### 官方软件
 
