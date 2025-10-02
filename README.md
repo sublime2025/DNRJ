@@ -16,8 +16,9 @@
 | [WindTerm](https://github.com/kingToolbox/WindTerm)          | 终端工具             |
 | [CompressO](https://github.com/codeforreal1/compressO)       | 视频压缩             |
 | [Floorp](https://github.com/Floorp-Projects/Floorp)          | FireFox浏览器        |
+| [TrayChrome](https://github.com/cornradio/tray-chrome)       | 托盘Google浏览器     |
 | [GmsCore](https://github.com/ReVanced/GmsCore)               | YT解除限制           |
-| [Metrolist](https://github.com/mostafaalagamy/Metrolist)     | YTMusic              |
+| [Metrolist](https://github.com/mostafaalagamy/Metrolist)     | YTMusic             |
 | [Openlist](https://github.com/OpenListTeam/OpenList)         | 网盘挂载             |
 | [BiliTools](https://github.com/btjawa/BiliTools)             | B站工具箱            |
 | [HTV](https://github.com/HTWMedia/HTV)                       | 电视直播软件         |
