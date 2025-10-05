@@ -44,7 +44,11 @@
 | [kdenlive](https://github.com/KDE/kdenlive)                  | 视频剪辑             |
 | [VLC](https://github.com/videolan/vlc)                       | 视频播放器           |
 | [OpenCut](https://github.com/OpenCut-app/OpenCut)            | 视频剪辑             |
-| [KeymouseGo](https://github.com/taojy123/KeymouseGo)          | 鼠标键盘自动化工具  |                                       |
+| [KeymouseGo](https://github.com/taojy123/KeymouseGo)         | 鼠标键盘自动化工具    |
+| [AlgerMusic](https://github.com/algerkong/AlgerMusicPlayer)     | 第三方网易云    |
+| [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic)       | 第三方酷狗    |
+| [SimpleLive](https://github.com/xiaoyaocz/dart_simple_live)         | 直播聚合    |
+| [LDDC](https://github.com/chenmozhijin/LDDC)         |   歌词下载匹配    |
 
 ### 官方软件
 
