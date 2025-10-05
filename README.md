@@ -44,6 +44,7 @@
 | [kdenlive](https://github.com/KDE/kdenlive)                  | 视频剪辑             |
 | [VLC](https://github.com/videolan/vlc)                       | 视频播放器           |
 | [OpenCut](https://github.com/OpenCut-app/OpenCut)            | 视频剪辑             |
+| [KeymouseGo](https://github.com/taojy123/KeymouseGo)          | 鼠标键盘自动化工具  |                                       |
 
 ### 官方软件
 
@@ -104,7 +105,6 @@
 | Printer Share        | 打印机共享维护      | [🔗]()                                      |
 | FileRename           | 批量重命名          | [🔗]()                                      |
 | Fix_Default          | 默认应用设置        | [🔗]()                                      |
-| KeymouseGo           | 鼠标键盘自动化工具  | [🔗]()                                      |
 | zghy                 | 追光护眼工具        | [🔗]()                                      |
 | WindowsUpdateBlocker | Windows关闭更新     | [🔗]()                                      |
 | Uninstal             | 软件卸载            | [🔗]()                                      |
@@ -117,9 +117,7 @@
 | Devink               | 硬件检测            | [🔗]()                                      |
 | DiskFreeze           | 重启还原系统        | [🔗]()                                      |
 |                      |                     |                                            |
-|                      |                     |                                            |
-|                      |                     |                                            |
-|                      |                     |                                            |
+
 
 ### 安卓软件
 
