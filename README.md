@@ -49,6 +49,9 @@
 | [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic)       | 第三方酷狗    |
 | [SimpleLive](https://github.com/xiaoyaocz/dart_simple_live)         | 直播聚合    |
 | [LDDC](https://github.com/chenmozhijin/LDDC)         |   歌词下载匹配    |
+| [anx-reader](https://github.com/Anxcye/anx-reader)         |   电子书阅读器    |
+| [PicView](https://github.com/Ruben2776/PicView)         |   图片查看器    |
+
 
 ### 官方软件
 
