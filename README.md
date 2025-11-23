@@ -51,7 +51,11 @@
 | [LDDC](https://github.com/chenmozhijin/LDDC)         |   歌词下载匹配    |
 | [anx-reader](https://github.com/Anxcye/anx-reader)         |   电子书阅读器    |
 | [PicView](https://github.com/Ruben2776/PicView)         |   图片查看器    |
-
+| [Crossdesk](https://github.com/kunkundi/crossdesk)         |   远程控制电脑    |
+| [P2P](https://github.com/miroslavpejic85/p2p)         |   远程控制电脑    |
+| [MarkFlowy](https://github.com/drl990114/MarkFlowy)         |   MarkDown    |
+| [WinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)         |   系统优化    |
+| [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)         |   音量控制    |
 
 ### 官方软件
 
@@ -128,22 +132,20 @@
 
 ### 安卓软件
 
-| 软件名称     | 简介         |      |
-| ------------ | ------------ | ---- |
-| WPSPro       | 专业版WPS    |      |
-| FolioReader  | RSS阅读器    |      |
-| Antennapod   | 听播客       |      |
-| MoonReader   | 电子书阅读器 |      |
-| SimpleReader | 电子书阅读器 |      |
-| OK           | TV影视壳     |      |
-| Ku9          | TV影视壳     |      |
-| TiviMate     | TV影视壳     |      |
-| BrowserHere  | TV浏览器     |      |
-| WiFiMater    | 万能钥匙     |      |
-|              |              |      |
-|              |              |      |
-|              |              |      |
-|              |              |      |
+| 软件名称     | 简介         |
+| ------------ | ------------ |
+| WPSPro       | 专业版WPS    |
+| FolioReader  | RSS阅读器    |
+| Antennapod   | 听播客       |
+| MoonReader   | 电子书阅读器 |
+| SimpleReader | 电子书阅读器 |
+| OK           | TV影视壳     |
+| Ku9          | TV影视壳     |
+| TiviMate     | TV影视壳     | 
+| BrowserHere  | TV浏览器     |
+| WiFiMater    | 万能钥匙     | 
+|              |              |
+
 
 ### 推荐插件
 
