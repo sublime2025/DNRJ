@@ -57,6 +57,7 @@
 | [WinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)         |   系统优化    |
 | [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)         |   音量控制    |
 | [Shell](https://github.com/moudey/Shell)         |   右键自定义    |
+| [eSearch](https://github.com/xushengfeng/eSearch)         |   识屏·搜索    |
 
 ### 官方软件
 
