@@ -58,6 +58,14 @@
 | [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)         |   音量控制    |
 | [Shell](https://github.com/moudey/Shell)         |   右键自定义    |
 | [eSearch](https://github.com/xushengfeng/eSearch)         |   识屏·搜索    |
+| [LiteMonitor](https://github.com/Diorser/LiteMonitor)         |   状态监控    |
+| [clianpro](https://github.com/supzza/clianpro)         |   网盘加速下载    |
+| [AuroraStore](https://github.com/whyorean/AuroraStore)         |   谷歌应用下载    |
+| [PrinterService](https://github.com/cp9no1/PrinterService)         |   内网打印服务    |
+| [SubTitleEdit](https://github.com/SubtitleEdit/subtitleedit)         |   字幕编辑    |
+| [WaveTerm](https://github.com/wavetermdev/waveterm)         |   开源终端    |
+| [Video2x](https://github.com/k4yt3x/video2x)         |   视频修复    |
+
 
 ### 官方软件
 
