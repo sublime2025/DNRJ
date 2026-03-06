@@ -65,6 +65,8 @@
 | [SubTitleEdit](https://github.com/SubtitleEdit/subtitleedit)         |   字幕编辑    |
 | [WaveTerm](https://github.com/wavetermdev/waveterm)         |   开源终端    |
 | [Video2x](https://github.com/k4yt3x/video2x)         |   视频修复    |
+| [CharmingPlayer](https://github.com/CharmingCheung/CharmingPlayer)         |   看直播源    |
+
 
 
 ### 官方软件
