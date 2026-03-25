@@ -57,6 +57,7 @@
 | [WinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)         |   系统优化    |
 | [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)         |   音量控制    |
 | [Shell](https://github.com/moudey/Shell)         |   右键自定义    |
+| [ElegantClipboard](https://github.com/Y-ASLant/ElegantClipboard)         |   剪贴板增强    |
 | [eSearch](https://github.com/xushengfeng/eSearch)         |   识屏·搜索    |
 | [LiteMonitor](https://github.com/Diorser/LiteMonitor)         |   状态监控    |
 | [clianpro](https://github.com/supzza/clianpro)         |   网盘加速下载    |
