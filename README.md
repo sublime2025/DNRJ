@@ -144,26 +144,16 @@
 
 ### 推荐插件
 
-| 名称                                                         | 简介                     |
-| ------------------------------------------------------------ | ------------------------ |
-| [Ultra Button](https://chromewebstore.google.com/detail/ultra-button/ppmnkcnnoclkpbbckblofjbjepocnflo) | 控制一切的按钮           |
-| [Better History](https://chromewebstore.google.com/detail/better-history-manage-exp/egehpkpgpgooebopjihjmnpejnjafefi) | 管理、导出与删除历史记录 |
-| [BewlyCat](https://chromewebstore.google.com/detail/bewlycat/oopkfefbgecikmfbbapnlpjidoomhjpl) | 重构bilibili页面         |
-| [可可翻译](https://chromewebstore.google.com/detail/sctranslator-translator-p/icfnljfpacimpcbpammmbclmhenimhfc) | 翻译，页面翻译，词典     |
-| [Infinity Pro](https://chromewebstore.google.com/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh) | 极简新标签页             |
-| [Random UA ](https://chromewebstore.google.com/detail/random-user-agent-switche/einpaelgookohagofgnnkcfjbkkgepnp) | User-Agent Switcher      |
-| [AdGuard](https://chromewebstore.google.com/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/bgnkhhnnamicmpeenaelnjfhikgbkllg) | 广告拦截器               |
-| [ZeroOmega](https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped) | Proxy Switchy            |
-| [青柠起始页](https://chromewebstore.google.com/detail/青柠起始页/aajmeahnoefldipnjgodkobfdcpmapno) | 极简新标签页             |
-| [ScriptCat](https://chromewebstore.google.com/detail/scriptcat/ndcooeababalnlpkfedmmbbbgkljhpjf) | 网页脚本管理工具         |
-| [Cat-Catch](https://chromewebstore.google.com/detail/cat-catch/jfedfbgedapdagkghmgibemcoggfppbb) | 网页媒体嗅探工具         |
-| [阿抖](https://chromewebstore.google.com/detail/阿抖-抖音视频采集助手/kckmfllnpncljamnlfnaoplpmlbgjeal) | 作者videohelper          |
-| [爱哔哔](https://chromewebstore.google.com/detail/爱哔哔-bilibili-B站助手/nabiilbmnbbgdbhkgdghdbcldakfeofd) | B站助手                  |
-| [TGD](https://chromewebstore.google.com/detail/telegram-video-downloader/ohepmjcobcbjaoffkejjlbbabdbjlejp) | 受限下载                 |
-| [Web To PDF](https://chromewebstore.google.com/detail/web-to-pdf/pamnlaoeobcmhkliljfaofekeddpmfoh) | 网页转PDF                |
-| [Diantoushi](https://www.diantoushi.com/help.html)           | 店透视电商工具箱         |
-| [AmingChaCha](https://amingchacha.com/download)              | 阿明查查电商工具箱       |
-| [ZhiZunBao](https://zzb.3351r.com/)                          | 至尊宝电商工具箱         |
-| [HaShiQi](https://hsq.dangxun.com/)                          | 哈士奇电商工具箱         |
-| [DianChaCha](https://www.dianchacha.com/chajian/)            | 店查查电商工具箱         |
-| [QR-Code](https://chromewebstore.google.com/detail/qr-code/cbimgpnbgalffiohilfglgkkhpegpjlo) | 二维码生成与识别         |
+|                             名称                             |        简介         |                             名称                             |        简介        |
+| :----------------------------------------------------------: | :-----------------: | :----------------------------------------------------------: | :----------------: |
+| [Ultra Button](https://chromewebstore.google.com/detail/ultra-button/ppmnkcnnoclkpbbckblofjbjepocnflo) |   控制一切的按钮    | [阿抖](https://chromewebstore.google.com/detail/阿抖-抖音视频采集助手/kckmfllnpncljamnlfnaoplpmlbgjeal) |  作者videohelper   |
+| [Better History](https://chromewebstore.google.com/detail/better-history-manage-exp/egehpkpgpgooebopjihjmnpejnjafefi) |    历史记录增强     | [爱哔哔](https://chromewebstore.google.com/detail/爱哔哔-bilibili-B站助手/nabiilbmnbbgdbhkgdghdbcldakfeofd) |      B站助手       |
+| [BewlyCat](https://chromewebstore.google.com/detail/bewlycat/oopkfefbgecikmfbbapnlpjidoomhjpl) |     B站页面美化     | [TGD](https://chromewebstore.google.com/detail/telegram-video-downloader/ohepmjcobcbjaoffkejjlbbabdbjlejp) |      受限下载      |
+| [可可翻译](https://chromewebstore.google.com/detail/sctranslator-translator-p/icfnljfpacimpcbpammmbclmhenimhfc) |    词典/网页翻译    | [Cat-Catch](https://chromewebstore.google.com/detail/cat-catch/jfedfbgedapdagkghmgibemcoggfppbb) |  网页媒体嗅探工具  |
+| [青柠起始页](https://chromewebstore.google.com/detail/青柠起始页/aajmeahnoefldipnjgodkobfdcpmapno) |    极简新标签页     | [Web To PDF](https://chromewebstore.google.com/detail/web-to-pdf/pamnlaoeobcmhkliljfaofekeddpmfoh) |     网页转PDF      |
+| [Infinity Pro](https://chromewebstore.google.com/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh) |    极简新标签页     |      [Diantoushi](https://www.diantoushi.com/help.html)      |  店透视电商工具箱  |
+| [AdGuard](https://chromewebstore.google.com/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/bgnkhhnnamicmpeenaelnjfhikgbkllg) |     广告拦截器      |       [AmingChaCha](https://amingchacha.com/download)        | 阿明查查电商工具箱 |
+| [ZeroOmega](https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped) |    Proxy Switchy    |             [ZhiZunBao](https://zzb.3351r.com/)              |  至尊宝电商工具箱  |
+| [Random UA ](https://chromewebstore.google.com/detail/random-user-agent-switche/einpaelgookohagofgnnkcfjbkkgepnp) | User-Agent Switcher |             [HaShiQi](https://hsq.dangxun.com/)              |  哈士奇电商工具箱  |
+| [ScriptCat](https://chromewebstore.google.com/detail/scriptcat/ndcooeababalnlpkfedmmbbbgkljhpjf) |  网页脚本管理工具   |      [DianChaCha](https://www.dianchacha.com/chajian/)       |  店查查电商工具箱  |
+| [QR-Code](https://chromewebstore.google.com/detail/qr-code/cbimgpnbgalffiohilfglgkkhpegpjlo) |  二维码生成与识别   |                                                              |                    |
