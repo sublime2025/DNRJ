@@ -18,7 +18,7 @@
 | [Floorp](https://github.com/Floorp-Projects/Floorp)          | FireFox浏览器        |
 | [TrayChrome](https://github.com/cornradio/tray-chrome)       | 托盘Google浏览器     |
 | [GmsCore](https://github.com/ReVanced/GmsCore)               | YT解除限制           |
-| [Metrolist](https://github.com/mostafaalagamy/Metrolist)     | YTMusic             |
+| [Metrolist](https://github.com/mostafaalagamy/Metrolist)     | YTMusic              |
 | [Openlist](https://github.com/OpenListTeam/OpenList)         | 网盘挂载             |
 | [BiliTools](https://github.com/btjawa/BiliTools)             | B站工具箱            |
 | [HTV](https://github.com/HTWMedia/HTV)                       | 电视直播软件         |
@@ -44,29 +44,29 @@
 | [kdenlive](https://github.com/KDE/kdenlive)                  | 视频剪辑             |
 | [VLC](https://github.com/videolan/vlc)                       | 视频播放器           |
 | [OpenCut](https://github.com/OpenCut-app/OpenCut)            | 视频剪辑             |
-| [KeymouseGo](https://github.com/taojy123/KeymouseGo)         | 鼠标键盘自动化工具    |
-| [AlgerMusic](https://github.com/algerkong/AlgerMusicPlayer)     | 第三方网易云    |
-| [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic)       | 第三方酷狗    |
-| [SimpleLive](https://github.com/xiaoyaocz/dart_simple_live)         | 直播聚合    |
-| [LDDC](https://github.com/chenmozhijin/LDDC)         |   歌词下载匹配    |
-| [anx-reader](https://github.com/Anxcye/anx-reader)         |   电子书阅读器    |
-| [PicView](https://github.com/Ruben2776/PicView)         |   图片查看器    |
-| [Crossdesk](https://github.com/kunkundi/crossdesk)         |   远程控制电脑    |
-| [P2P](https://github.com/miroslavpejic85/p2p)         |   远程控制电脑    |
-| [MarkFlowy](https://github.com/drl990114/MarkFlowy)         |   MarkDown    |
-| [WinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)         |   系统优化    |
-| [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)         |   音量控制    |
-| [Shell](https://github.com/moudey/Shell)         |   右键自定义    |
-| [ElegantClipboard](https://github.com/Y-ASLant/ElegantClipboard)         |   剪贴板增强    |
-| [eSearch](https://github.com/xushengfeng/eSearch)         |   识屏·搜索    |
-| [LiteMonitor](https://github.com/Diorser/LiteMonitor)         |   状态监控    |
-| [clianpro](https://github.com/supzza/clianpro)         |   网盘加速下载    |
-| [AuroraStore](https://github.com/whyorean/AuroraStore)         |   谷歌应用下载    |
-| [PrinterService](https://github.com/cp9no1/PrinterService)         |   内网打印服务    |
-| [SubTitleEdit](https://github.com/SubtitleEdit/subtitleedit)         |   字幕编辑    |
-| [WaveTerm](https://github.com/wavetermdev/waveterm)         |   开源终端    |
-| [Video2x](https://github.com/k4yt3x/video2x)         |   视频修复    |
-| [CharmingPlayer](https://github.com/CharmingCheung/CharmingPlayer)         |   看直播源    |
+| [KeymouseGo](https://github.com/taojy123/KeymouseGo)         | 鼠标键盘自动化工具   |
+| [AlgerMusic](https://github.com/algerkong/AlgerMusicPlayer)  | 第三方网易云         |
+| [MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic)    | 第三方酷狗           |
+| [SimpleLive](https://github.com/xiaoyaocz/dart_simple_live)  | 直播聚合             |
+| [LDDC](https://github.com/chenmozhijin/LDDC)                 | 歌词下载匹配         |
+| [anx-reader](https://github.com/Anxcye/anx-reader)           | 电子书阅读器         |
+| [PicView](https://github.com/Ruben2776/PicView)              | 图片查看器           |
+| [Crossdesk](https://github.com/kunkundi/crossdesk)           | 远程控制电脑         |
+| [P2P](https://github.com/miroslavpejic85/p2p)                | 远程控制电脑         |
+| [MarkFlowy](https://github.com/drl990114/MarkFlowy)          | MarkDown             |
+| [WinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) | 系统优化             |
+| [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) | 音量控制             |
+| [Shell](https://github.com/moudey/Shell)                     | 右键自定义           |
+| [ElegantClipboard](https://github.com/Y-ASLant/ElegantClipboard) | 剪贴板增强           |
+| [eSearch](https://github.com/xushengfeng/eSearch)            | 识屏·搜索            |
+| [LiteMonitor](https://github.com/Diorser/LiteMonitor)        | 状态监控             |
+| [clianpro](https://github.com/supzza/clianpro)               | 网盘加速下载         |
+| [AuroraStore](https://github.com/whyorean/AuroraStore)       | 谷歌应用下载         |
+| [PrinterService](https://github.com/cp9no1/PrinterService)   | 内网打印服务         |
+| [SubTitleEdit](https://github.com/SubtitleEdit/subtitleedit) | 字幕编辑             |
+| [WaveTerm](https://github.com/wavetermdev/waveterm)          | 开源终端             |
+| [Video2x](https://github.com/k4yt3x/video2x)                 | 视频修复             |
+| [CharmingPlayer](https://github.com/CharmingCheung/CharmingPlayer) | 看直播源             |
 
 
 
@@ -142,44 +142,28 @@
 | DiskFreeze           | 重启还原系统        | [🔗]()                                      |
 |                      |                     |                                            |
 
-
-### 安卓软件
-
-| 软件名称     | 简介         |
-| ------------ | ------------ |
-| WPSPro       | 专业版WPS    |
-| FolioReader  | RSS阅读器    |
-| Antennapod   | 听播客       |
-| MoonReader   | 电子书阅读器 |
-| SimpleReader | 电子书阅读器 |
-| OK           | TV影视壳     |
-| Ku9          | TV影视壳     |
-| TiviMate     | TV影视壳     | 
-| BrowserHere  | TV浏览器     |
-| WiFiMater    | 万能钥匙     | 
-|              |              |
-
-
 ### 推荐插件
 
-| 插件名称                                                     | 简介                |
-| ------------------------------------------------------------ | ------------------- |
-| [BewlyBewly](https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp?hl=zh-CN&utm_source=ext_sidebar) | Bilibili页面美化    |
-| [BilibiliDownload](https://chromewebstore.google.com/detail/bilibili哔哩哔哩下载助手/bfcbfobhcjbkilcbehlnlchiinokiijp) | Bilibili下载助手    |
-| [TamperMonkey](https://chromewebstore.google.com/detail/篡改猴/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN&utm_source=ext_sidebar) | 网页脚本工具        |
-| [Cat-catch](https://chromewebstore.google.com/detail/猫抓/jfedfbgedapdagkghmgibemcoggfppbb) | 爬取网页视频        |
-| [Keke Translate](https://chromewebstore.google.com/detail/可可翻译－翻译，页面翻译，词典/icfnljfpacimpcbpammmbclmhenimhfc?hl=zh-CN&utm_source=ext_sidebar) | 沉浸式翻译+划词翻译 |
-| [Infinity](https://chromewebstore.google.com/detail/infinity-新标签页-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-CN&utm_source=ext_sidebar) | 简约新标签页        |
-| [FireShot](https://chromewebstore.google.com/detail/捕捉网页截图-fireshot的/mcbpblocgmgfnpjjppndjkmgjaogfceg) | 捕捉网页截图        |
-| [QRCode](https://chromewebstore.google.com/detail/QR码生成与识别/cbimgpnbgalffiohilfglgkkhpegpjlo) | 二维码生成与识别    |
-| [SuperCopy](https://chromewebstore.google.com/detail/supercopy-超级复制/onepmapfbjohnegdmfhndpefjkppbjkm?hl=zh-CN&utm_source=ext_sidebar) | 解锁复制限制        |
-| [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=zh-CN&utm_source=ext_sidebar) | 广告屏蔽工具        |
-| [User-Agent](https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg) | 浏览器代理          |
-| [Proxy Switchy Omega](https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN&utm_source=ext_sidebar) | 代理分流工具        |
-| [Telegram Video Downloader](https://chromewebstore.google.com/detail/telegram-video-downloader/ohepmjcobcbjaoffkejjlbbabdbjlejp?hl=zh-CN&utm_source=ext_sidebar) | 解锁电报下载限制    |
-| [Ultra-Button](https://chromewebstore.google.com/detail/ultra-button/ppmnkcnnoclkpbbckblofjbjepocnflo?hl=zh-CN&utm_source=ext_sidebar) | 控制一切的按钮      |
-| [Diantoushi](https://www.diantoushi.com/help.html)           | 店透视电商工具箱    |
-| [AmingChaCha](https://amingchacha.com/download)              | 阿明查查电商工具箱  |
-| [ZhiZunBao](https://zzb.3351r.com/)                          | 至尊宝电商工具箱    |
-| [HaShiQi](https://hsq.dangxun.com/)                          | 哈士奇电商工具箱    |
-| [DianChaCha](https://www.dianchacha.com/chajian/)            | 店查查电商工具箱    |
+| 名称                                                         | 简介                     |
+| ------------------------------------------------------------ | ------------------------ |
+| [Ultra Button](https://chromewebstore.google.com/detail/ultra-button/ppmnkcnnoclkpbbckblofjbjepocnflo) | 控制一切的按钮           |
+| [Better History](https://chromewebstore.google.com/detail/better-history-manage-exp/egehpkpgpgooebopjihjmnpejnjafefi) | 管理、导出与删除历史记录 |
+| [BewlyCat](https://chromewebstore.google.com/detail/bewlycat/oopkfefbgecikmfbbapnlpjidoomhjpl) | 重构bilibili页面         |
+| [可可翻译](https://chromewebstore.google.com/detail/sctranslator-translator-p/icfnljfpacimpcbpammmbclmhenimhfc) | 翻译，页面翻译，词典     |
+| [Infinity Pro](https://chromewebstore.google.com/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh) | 极简新标签页             |
+| [Random UA ](https://chromewebstore.google.com/detail/random-user-agent-switche/einpaelgookohagofgnnkcfjbkkgepnp) | User-Agent Switcher      |
+| [AdGuard](https://chromewebstore.google.com/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/bgnkhhnnamicmpeenaelnjfhikgbkllg) | 广告拦截器               |
+| [ZeroOmega](https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped) | Proxy Switchy            |
+| [青柠起始页](https://chromewebstore.google.com/detail/青柠起始页/aajmeahnoefldipnjgodkobfdcpmapno) | 极简新标签页             |
+| [ScriptCat](https://chromewebstore.google.com/detail/scriptcat/ndcooeababalnlpkfedmmbbbgkljhpjf) | 网页脚本管理工具         |
+| [Cat-Catch](https://chromewebstore.google.com/detail/cat-catch/jfedfbgedapdagkghmgibemcoggfppbb) | 网页媒体嗅探工具         |
+| [阿抖](https://chromewebstore.google.com/detail/阿抖-抖音视频采集助手/kckmfllnpncljamnlfnaoplpmlbgjeal) | 作者videohelper          |
+| [爱哔哔](https://chromewebstore.google.com/detail/爱哔哔-bilibili-B站助手/nabiilbmnbbgdbhkgdghdbcldakfeofd) | B站助手                  |
+| [TGD](https://chromewebstore.google.com/detail/telegram-video-downloader/ohepmjcobcbjaoffkejjlbbabdbjlejp) | 受限下载                 |
+| [Web To PDF](https://chromewebstore.google.com/detail/web-to-pdf/pamnlaoeobcmhkliljfaofekeddpmfoh) | 网页转PDF                |
+| [Diantoushi](https://www.diantoushi.com/help.html)           | 店透视电商工具箱         |
+| [AmingChaCha](https://amingchacha.com/download)              | 阿明查查电商工具箱       |
+| [ZhiZunBao](https://zzb.3351r.com/)                          | 至尊宝电商工具箱         |
+| [HaShiQi](https://hsq.dangxun.com/)                          | 哈士奇电商工具箱         |
+| [DianChaCha](https://www.dianchacha.com/chajian/)            | 店查查电商工具箱         |
+| [QR-Code](https://chromewebstore.google.com/detail/qr-code/cbimgpnbgalffiohilfglgkkhpegpjlo) | 二维码生成与识别         |
